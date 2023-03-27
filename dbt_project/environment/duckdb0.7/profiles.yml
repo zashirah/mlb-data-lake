@@ -1,0 +1,14 @@
+mlb_data_lake:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "{{ env_var('DBT_DUCKDB_PATH') }}"
+      external_root: "{{ env_var('DBT_PROJECT_ROOT') }}/data/data_catalog/"
+      # extensions:
+      #   - httpfs
+      #   - parquet
+      # settings:
+      #   s3_region: us-east-1
+      #   s3_access_key_id: "{{ env_var('DBT_ENV_SECRET_S3_ACCESS_KEY_ID') }}"
+      #   s3_secret_access_key: "{{ env_var('DBT_ENV_S3_SECRET_ACCESS_KEY') }}"

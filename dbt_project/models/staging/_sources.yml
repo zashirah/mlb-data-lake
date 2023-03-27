@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: bigdataball
+    meta: 
+      external_location: "{{ env_var('DBT_PROJECT_ROOT') }}/data/raw/bigdataball/{name}.csv"
+    tables:
+      - name: mlb_2022_player_boxscore_dataset
+  - name: yahoofantasybaseball
+    meta: 
+      external_location: "{{ env_var('DBT_PROJECT_ROOT') }}/data/raw/yahoofantasybaseball/{name}.csv"
+    tables:
+      - name: players_on_active_roster
+  - name: smartfantasybaseball
+    meta:
+      external_location: "{{ env_var('DBT_PROJECT_ROOT') }}/data/raw/smartfantasybaseball/{name}.csv"
+    tables:
+      - name: sfbb_player_id_map

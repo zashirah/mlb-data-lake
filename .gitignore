@@ -1,0 +1,10 @@
+venv/
+
+dbt_project/data/raw/baseballdatabank/
+dbt_project/data/raw/pybaseball/
+
+dbt_project/data/raw/yahoofantasybaseball/oauth2.json
+
+dbt_project/environment/duckdb0.7/.user.yml
+dbt_project/logs/
+dbt_project/target/

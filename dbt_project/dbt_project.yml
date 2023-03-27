@@ -1,0 +1,23 @@
+name: mlb_data_lake
+
+config-version: 2
+version: 1.0.0
+
+profile: mlb_data_lake
+
+model-paths: 
+  - models
+test-paths: 
+  - tests
+
+models:
+  mlb_data_lake:
+    staging:  
+      +materialized: view
+
+    marts:
+      +materialized: external
+      +format: parquet
+
+    analytics:
+      +materialized: external
