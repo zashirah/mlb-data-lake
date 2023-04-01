@@ -1,0 +1,29 @@
+name: ingest daily pitching data
+
+on:
+  schedule:
+    - cron: '0 5 * * *' 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ${{ github.workspace }}/ingest/daily_pitching_data/requirements.txt
+
+      - name: execute py script # run main.py
+        env:
+          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: python ${{ github.workspace }}/ingest/daily_pitching_data/app.py
