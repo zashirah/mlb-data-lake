@@ -1,4 +1,4 @@
-name: ingest daily pitching data
+name: ingest daily batting data
 
 on:
   workflow_dispatch:
@@ -25,10 +25,10 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r ${{ github.workspace }}/ingest/daily_pitching_data/requirements.txt
+          pip install -r ${{ github.workspace }}/ingest/daily_batting_data/requirements.txt
 
       - name: execute py script # run main.py
         env:
           AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        run: python ${{ github.workspace }}/ingest/daily_pitching_data/app.py
+        run: python ${{ github.workspace }}/ingest/daily_batting_data/app.py
