@@ -13,10 +13,8 @@ def main():
     print("Run date:", run_date_string)
 
     data = pitching_stats_range(run_date_string)
-    # data.to_csv(
-    #     f's3://zs-mlb-datalake/pybaseball/pitching_stat_range/pitching_stat_range_{run_date_string}.csv',
-    #     index=False
-    # )
+
+    print(data)
 
     ACCESS_KEY = os.environ.get('AWS_ACCESS_KEY')
     SECRET_KEY = os.environ.get('AWS_SECRET_ACCESS_KEY')
@@ -28,10 +26,12 @@ def main():
 
     aws3.to_csv(
         df=data,
-        path=f's3://zs-mlb-datalake/pybaseball/pitching_stat_range/pitching_stat_range_{run_date_string}.csv',
+        path=f's3://zs-mlb-datalake/data/raw/pybaseball/pitching_stats_range/pitching_stats_range_{run_date_string}.csv',
         index=False,
         boto3_session=s3_session
     )
+
+    print('Data landed in s3')
 
 
 main()
