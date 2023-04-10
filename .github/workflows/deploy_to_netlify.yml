@@ -16,7 +16,7 @@ jobs:
       - name: install packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r ${{ github.workspace }}/ingest/dbt_project/requirements.txt
+          pip install -r ${{ github.workspace }}/dbt_project/requirements.txt
 
       - name: dbt run & move files
         run: |
