@@ -20,7 +20,7 @@ jobs:
 
       - name: dbt run & move files
         run: |
-          export DBT_PROJECT_ROOT=${{ github.workspace }}/mlb-data-lake/dbt_project
+          export DBT_PROJECT_ROOT=${{ github.workspace }}/dbt_project
           export DBT_PROFILES_DIR=${{ github.workspace }}/dbt_project/environment/duckdb0.7
           export DBT_DUCKDB_PATH=${{ github.workspace }}/dbt_project/data/duckdb.db
           dbt run
