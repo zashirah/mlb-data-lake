@@ -20,6 +20,9 @@ jobs:
 
       - name: dbt run & move files
         run: |
-          source ${{ github.workspace }}/dbt_project/environment/duckdb0.7/dev.env
+          export DBT_PROJECT_ROOT=${{ github.workspace }}/dbt_project
+          export DBT_PROFILES_DIR=${{ github.workspace }}/dbt_project/environment/duckdb0.7
+          export DBT_DUCKDB_PATH=${{ github.workspace }}/dbt_project/data/duckdb.db
+          cd ${{ github.workspace }}/dbt_project
           dbt run
         
