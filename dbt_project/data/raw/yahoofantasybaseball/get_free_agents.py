@@ -1,6 +1,8 @@
+import json
 import pandas as pd
 import yahoo_fantasy_api as yfa
 from yahoo_oauth import OAuth2
+
 
 sc = OAuth2(None, None, from_file='oauth2.json')
 
@@ -13,4 +15,8 @@ lg = gm.to_league('422.l.63737')
 
 fa_RPs = lg.free_agents('RP')
 
-print(fa_RPs)
+df = pd.DataFrame(fa_RPs)
+print(df)
+
+df.to_csv('free_agents_rp.csv')
+

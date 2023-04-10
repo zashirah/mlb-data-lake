@@ -2,12 +2,12 @@ with source as (
     select 
         "player_id", 
         "name", 
-        "status", 
         "position_type", 
         "eligible_positions",
-        "selected_position"
+        "percent_owned",
+        "status"
 
-        from {{ source("yahoofantasybaseball", "players_on_active_roster")}}
+        from {{ source("yahoofantasybaseball", "free_agents_rp")}}
     )
 
 select *

@@ -1,0 +1,318 @@
+Name,Age,#days,Lev,Date,Tm, ,Opp,G,PA,AB,R,H,2B,3B,HR,RBI,BB,IBB,SO,HBP,SH,SF,GDP,SB,CS,BA,OBP,SLG,OPS,mlbID
+CJ Abrams,22,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,682928
+Jos\xc3\xa9 Abreu,36,0,Maj-AL,"Apr 1, 2023",Houston,,Chicago,1,5,5,0,2,0,0,0,1,0,0,3,0,0,0,0,0,0,0.4,0.4,0.4,0.8,547989
+Ronald Acuna Jr.,25,0,Maj-NL,"Apr 1, 2023",Atlanta,@,Washington,1,5,5,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0.2,0.2,0.8,1.0,660670
+Willy Adames,27,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,4,3,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.25,0.0,0.25,642715
+Jes\xc3\xbas Aguilar,33,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.333,0.667,542583
+Nick Ahmed,33,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.333,0.667,605113
+Ozzie Albies,26,0,Maj-NL,"Apr 1, 2023",Atlanta,@,Washington,1,4,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.333,0.5,0.333,0.833,645277
+Nick Allen,24,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,669397
+Pete Alonso,28,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,5,3,2,2,1,0,0,1,2,0,0,0,0,0,0,0,0,0.667,0.8,1.0,1.8,624413
+Yordan Alvarez,26,0,Maj-AL,"Apr 1, 2023",Houston,,Chicago,1,5,5,2,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0.6,0.6,0.6,1.2,670541
+Brian Anderson,30,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,4,3,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.333,0.5,0.333,0.833,605119
+Tim Anderson,30,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,5,5,1,2,0,0,0,0,0,0,2,0,0,0,0,1,0,0.4,0.4,0.4,0.8,641313
+Elvis Andrus,34,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,462101
+Orlando Arcia,28,0,Maj-NL,"Apr 1, 2023",Atlanta,@,Washington,1,4,4,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.75,0.75,1.5,606115
+Nolan Arenado,32,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,4,4,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,571448
+Gabriel Arias,23,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,672356
+Randy Arozarena,28,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,5,3,2,1,1,0,0,1,1,0,2,1,0,0,0,0,0,0.333,0.6,0.667,1.267,668227
+Luis Arraez,26,0,Maj-NL,"Apr 1, 2023",Miami,,New York,1,5,5,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8,0.8,0.8,1.6,650333
+Christian Arroyo,28,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,624414
+Jos\xc3\xa9 Azocar,27,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,3,2,2,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0.5,0.667,1.0,1.667,640492
+Ji Hwan Bae,23,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,678225
+Javier B\xc3\xa1ez,30,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,595879
+Austin Barnes,33,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,605131
+Tucker Barnhart,32,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,571466
+Jose Barrero,25,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,676480
+Josh Bell,30,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,4,2,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,605137
+Cody Bellinger,27,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0.0,0.0,0.0,0.0,641355
+Brandon Belt,35,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,4,3,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.25,0.0,0.25,474832
+Andrew Benintendi,28,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,5,5,0,2,0,0,0,0,0,0,2,0,0,0,0,1,0,0.4,0.4,0.4,0.8,643217
+Mookie Betts,30,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,3,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.333,0.333,0.667,1.0,605141
+Bo Bichette,25,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,5,4,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.25,0.4,0.25,0.65,666182
+Cavan Biggio,28,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,4,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0,0.5,0.0,0.5,624415
+Charlie Blackmon,36,0,Maj-NL,"Apr 1, 2023",Colorado,@,San Diego,1,4,3,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0.333,0.5,0.667,1.167,453568
+Xander Bogaerts,30,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,5,3,1,1,0,0,1,2,2,0,0,0,0,0,0,0,0,0.333,0.6,1.333,1.933,593428
+Alec Bohm,26,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,4,3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0.25,0.0,0.25,664761
+Alex Bregman,29,0,Maj-AL,"Apr 1, 2023",Houston,,Chicago,1,5,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608324
+Mike Brosseau,29,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.25,0.0,0.25,670712
+Seth Brown,30,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,664913
+Kris Bryant,31,0,Maj-NL,"Apr 1, 2023",Colorado,@,San Diego,1,4,3,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.333,0.5,0.333,0.833,592178
+Alec Burleson,24,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,676475
+Byron Buxton,29,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,4,4,2,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.75,1.25,621439
+Miguel Cabrera,40,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,4,3,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0.333,0.5,0.333,0.833,408234
+Oswaldo Cabrera,24,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,665828
+Luis Campusano,24,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,4,3,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0.333,0.25,0.333,0.583,669134
+Jeimer Candelario,29,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,600869
+Mark Canha,34,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,5,4,3,3,1,0,1,2,1,0,0,0,0,0,0,0,0,0.75,0.8,1.75,2.55,592192
+Conner Capel,26,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,1.0,2.0,668843
+Dylan Carlson,24,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,666185
+Kerry Carpenter,25,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,4,4,2,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0.5,0.5,1.0,1.5,681481
+Matt Carpenter,37,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,4,3,0,2,1,0,0,2,1,0,0,0,0,0,0,0,0,0.667,0.75,1.0,1.75,572761
+Corbin Carroll,22,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,682998
+Curt Casali,34,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,592200
+Triston Casas,23,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,4,3,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.25,0.0,0.25,671213
+Nick Castellanos,31,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,4,4,0,2,2,0,0,2,0,0,1,0,0,0,0,0,0,0.5,0.5,1.0,1.5,592206
+Rodolfo Castro,24,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,666801
+Jake Cave,30,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0.0,0.25,0.0,0.25,595909
+Yu Chang,27,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,644374
+Matt Chapman,30,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,656305
+Jazz Chisholm Jr.,25,0,Maj-NL,"Apr 1, 2023",Miami,,New York,1,4,3,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.333,0.5,0.667,1.167,665862
+Ji Man Choi,32,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,596847
+Oscar Col\xc3\xa1s,24,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,4,4,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,693049
+Michael Conforto,30,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,5,5,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,624424
+William Contreras,25,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,4,4,0,1,0,0,0,2,0,0,1,0,0,0,1,0,0,0.25,0.25,0.25,0.5,661388
+Garrett Cooper,32,0,Maj-NL,"Apr 1, 2023",Miami,,New York,1,5,5,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0.2,0.2,0.2,0.4,643265
+Carlos Correa,28,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,621043
+Brandon Crawford,36,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,5,5,2,3,1,0,1,3,0,0,1,0,0,0,0,1,0,0.6,0.6,1.4,2.0,543063
+J.P. Crawford,28,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.333,0.0,0.333,641487
+C.J. Cron,33,0,Maj-NL,"Apr 1, 2023",Colorado,@,San Diego,1,4,4,1,2,1,0,1,2,0,0,0,0,0,0,0,0,0,0.5,0.5,1.5,2.0,543068
+Jake Cronenworth,29,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,5,4,2,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.25,0.4,0.25,0.65,630105
+Oneil Cruz,24,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,4,4,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,665833
+Travis d\'Arnaud,34,0,Maj-NL,"Apr 1, 2023",Atlanta,@,Washington,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,518595
+David Dahl,29,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,621311
+Yonathan Daza,29,0,Maj-NL,"Apr 1, 2023",Colorado,@,San Diego,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,602074
+Bryan De La Cruz,26,0,Maj-NL,"Apr 1, 2023",Miami,,New York,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,650559
+Rafael Devers,26,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,5,5,1,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0.6,0.6,0.8,1.4,646240
+Aledmys D\xc3\xadaz,32,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,649557
+Elias D\xc3\xadaz,32,0,Maj-NL,"Apr 1, 2023",Colorado,@,San Diego,1,4,4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.5,0.75,553869
+Yainer Diaz,24,0,Maj-AL,"Apr 1, 2023",Houston,,Chicago,1,4,2,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0,0.5,0.0,0.5,673237
+Yandy D\xc3\xadaz,31,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,5,4,3,3,1,0,1,3,1,0,1,0,0,0,0,0,0,0.75,0.8,1.75,2.55,650490
+Corey Dickerson,34,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,3,2,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.333,0.0,0.333,572816
+Josh Donaldson,37,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,4,4,1,1,0,0,1,1,0,0,2,0,0,0,0,0,0,0.25,0.25,1.0,1.25,518626
+Brendan Donovan,26,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,4,4,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,680977
+Hunter Dozier,31,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,641531
+Ezequiel Duran,24,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,677649
+Adam Duvall,34,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,5,5,3,4,1,1,2,5,0,0,0,0,0,0,0,0,0,0.8,0.8,2.6,3.4,594807
+Nate Eaton,26,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,681987
+Tommy Edman,28,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.333,0.667,669242
+Eduardo Escobar,34,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,5,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,500871
+Thairo Estrada,27,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,5,5,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,642731
+Stuart Fairchild,27,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,2,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,656413
+Kyle Farmer,32,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,2,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0.0,0.0,0.0,0.0,571657
+David Fletcher,29,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,664058
+Nick Fortes,26,0,Maj-NL,"Apr 1, 2023",Miami,,New York,1,4,4,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0.5,0.5,1.25,1.75,663743
+Jake Fraley,28,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,2,2,1,1,0,0,1,3,0,0,0,0,0,0,0,0,0,0.5,0.5,2.0,2.5,641584
+Ty France,28,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,664034
+Wander Franco,22,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,5,4,1,3,2,0,0,3,1,0,1,0,0,0,0,0,0,0.75,0.8,1.25,2.05,677551
+Adam Frazier,31,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,624428
+Freddie Freeman,33,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,4,3,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0.333,0.5,0.333,0.833,518692
+TJ Friedl,27,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,670770
+Cam Gallagher,30,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,595956
+Joey Gallo,29,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608336
+Adolis Garc\xc3\xada,30,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,5,4,2,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0.75,0.8,0.75,1.55,666969
+Luis Garc\xc3\xada,23,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0.0,0.0,0.0,0.0,671277
+Mitch Garver,32,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,5,4,3,2,0,0,2,6,1,0,1,0,0,0,0,0,0,0.5,0.6,2.0,2.6,641598
+Andr\xc3\xa9s Gim\xc3\xa9nez,24,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,4,3,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0.333,0.5,1.333,1.833,665926
+Paul Goldschmidt,35,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,4,4,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,502671
+Oscar Gonzalez,25,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,660757
+Romy Gonz\xc3\xa1lez,26,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,663853
+Nick Gordon,27,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,624503
+Nolan Gorman,23,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,4,2,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0.5,0.75,0.5,1.25,669357
+Yasmani Grandal,34,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,1.0,,,518735
+Riley Greene,22,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,682985
+Trent Grisham,26,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,5,5,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.4,0.6,663757
+Robbie Grossman,33,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,4,3,1,2,0,0,0,2,0,0,1,0,0,1,0,0,0,0.667,0.5,0.667,1.167,543257
+Vladimir Guerrero Jr.,24,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,5,2,1,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0.0,0.6,0.0,0.6,665489
+Luis Guillorme,28,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,641645
+Lourdes Gurriel Jr.,29,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,666971
+Eric Haase,30,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,606992
+Sam Haggerty,29,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,664059
+Darick Hall,27,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,3,3,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.667,0.667,1.0,1.667,669742
+Ian Happ,28,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,4,4,1,2,0,0,1,1,0,0,2,0,0,0,0,0,0,0.5,0.5,1.25,1.75,664023
+Michael Harris II,22,0,Maj-NL,"Apr 1, 2023",Atlanta,@,Washington,1,4,4,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0.25,0.25,0.25,0.5,671739
+Josh Harrison,35,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543281
+Ke\'Bryan Hayes,26,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,4,4,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.5,0.75,663647
+Austin Hays,27,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,5,5,2,5,2,0,1,1,0,0,0,0,0,0,0,1,0,1.0,1.0,2.0,3.0,669720
+Austin Hedges,30,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,595978
+Gunnar Henderson,22,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,5,2,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0.0,0.6,0.0,0.6,683002
+David Hensley,27,0,Maj-AL,"Apr 1, 2023",Houston,,Chicago,1,4,4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,682073
+Enrique Hern\xc3\xa1ndez,31,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,4,2,2,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0.5,0.75,2.0,2.75,571771
+Teoscar Hern\xc3\xa1ndez,30,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0.0,0.333,0.0,0.333,606192
+Jose Herrera,26,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,645444
+Jason Heyward,33,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,518792
+Aaron Hicks,33,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543305
+Nico Hoerner,26,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,663538
+Eric Hosmer,33,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543333
+Jonathan India,26,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,4,3,1,1,0,0,1,1,1,0,1,0,0,0,0,1,0,0.333,0.5,1.333,1.833,663697
+Kyle Isbel,26,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0.25,0.25,0.25,0.5,664728
+Travis Jankowski,32,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1.0,1.0,1.0,2.0,608671
+Danny Jansen,28,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,643376
+Eloy Jim\xc3\xa9nez,26,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,5,3,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0.333,0.6,0.333,0.933,650391
+Connor Joe,30,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,4,3,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0.333,0.5,0.333,0.833,656582
+Bryce Johnson,27,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,669369
+Aaron Judge,31,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,5,5,1,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0.6,0.6,0.6,1.2,592450
+Corey Julks,27,0,Maj-AL,"Apr 1, 2023",Houston,,Chicago,1,4,4,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,667452
+Josh Jung,25,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,6,5,2,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0.2,0.333,0.2,0.533,673962
+Jarred Kelenic,23,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,672284
+Tony Kemp,31,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.0,0.667,0.0,0.667,643393
+Max Kepler,30,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,596146
+Kevin Kiermaier,33,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,4,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,595281
+Andrew Knizner,28,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,668800
+Ryan Kreidler,25,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,668952
+Steven Kwan,25,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,680757
+Tommy La Stella,34,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,3,3,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.667,1.0,600303
+Jake Lamb,32,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,5,4,1,1,0,0,0,2,1,0,2,0,0,0,0,0,0,0.25,0.4,0.25,0.65,571875
+Shea Langeliers,25,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,669127
+Trevor Larnach,26,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,663616
+Ram\xc3\xb3n Laureano,28,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,3,3,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0.333,0.333,1.333,1.667,657656
+DJ LeMahieu,34,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,5,4,1,1,1,0,0,0,1,0,2,0,0,0,0,0,0,0.25,0.4,0.5,0.9,518934
+Kyle Lewis,27,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,4,4,0,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0.25,0.25,0.5,0.75,641786
+Francisco Lindor,29,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,5,5,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0.4,0.6,596019
+Evan Longoria,37,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,446334
+Nicky Lopez,28,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,3,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0,0.333,0.0,0.333,670032
+Brandon Lowe,28,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,3,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.5,0.667,0.5,1.167,664040
+Josh Lowe,25,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,5,4,1,2,2,0,0,2,1,0,2,0,0,0,0,0,0,0.5,0.6,1.0,1.6,666139
+Nathaniel Lowe,27,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,6,6,2,3,1,0,0,2,0,0,1,0,0,0,0,0,0,0.5,0.5,0.667,1.167,663993
+Nathan Lukes,28,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,664770
+Manny Machado,30,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,5,4,0,2,0,0,0,1,1,0,1,0,0,0,0,0,0,0.5,0.6,0.5,1.1,592518
+Nick Madrigal,26,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,663611
+Trey Mancini,31,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,641820
+Brandon Marsh,25,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,669016
+Ketel Marte,29,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,606466
+Starling Marte,34,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1.0,1.0,2.0,3.0,516782
+J.D. Martinez,35,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,4,3,2,2,1,0,1,1,1,0,1,0,0,0,0,0,0,0.667,0.75,2.0,2.75,502110
+Michael Massey,25,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,686681
+Miles Mastrobuoni,27,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,670156
+Jorge Mateo,28,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,5,4,1,0,0,0,0,1,1,0,1,0,0,0,0,2,0,0.0,0.2,0.0,0.2,622761
+Nick Maton,26,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,665155
+Chas McCormick,28,0,Maj-AL,"Apr 1, 2023",Houston,,Chicago,1,4,2,0,1,0,0,0,1,2,0,0,0,0,0,0,1,0,0.5,0.75,0.5,1.25,676801
+Andrew McCutchen,36,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,4,3,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,457705
+Reese McGuire,28,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,624512
+Ryan McKenna,26,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,4,3,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0.333,0.5,0.333,0.833,663630
+Zach McKinstry,28,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,656716
+Ryan McMahon,28,0,Maj-NL,"Apr 1, 2023",Colorado,@,San Diego,1,4,4,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0.25,0.25,0.5,0.75,641857
+Jeff McNeil,31,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,5,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.4,0.6,643446
+Austin Meadows,28,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,3,3,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0.333,0.333,0.333,0.667,640457
+Francisco Mej\xc3\xada,27,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,5,4,2,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0.25,0.4,0.25,0.65,642336
+MJ Melendez,24,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,669004
+Joey Meneses,31,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608841
+Brad Miller,33,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,4,3,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.333,0.5,0.333,0.833,543543
+Owen Miller,26,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,680911
+Jose Miranda,25,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,4,4,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,669304
+Garrett Mitchell,24,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,2,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.5,0.0,0.5,669003
+Yo\xc3\xa1n Moncada,28,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,5,5,1,1,0,0,1,1,0,0,3,0,0,0,0,0,0,0.2,0.2,0.8,1.0,660162
+Elehuris Montero,24,0,Maj-NL,"Apr 1, 2023",Colorado,@,San Diego,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,660707
+Gabriel Moreno,23,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,3,3,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.333,0.333,0.667,1.0,672515
+Ryan Mountcastle,26,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,5,5,2,2,0,0,1,2,0,0,2,0,0,0,0,0,0,0.4,0.4,1.0,1.4,663624
+Mike Moustakas,34,0,Maj-NL,"Apr 1, 2023",Colorado,@,San Diego,1,4,2,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,519058
+Cedric Mullins,28,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,4,4,1,2,0,0,1,3,0,0,0,0,0,0,1,1,0,0.5,0.5,1.25,1.75,656775
+Max Muncy,32,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,4,3,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0.0,0.25,0.0,0.25,571970
+Tom Murphy,32,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608596
+Wil Myers,32,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,4,3,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.25,0.0,0.25,571976
+Omar Narv\xc3\xa1ez,31,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,5,4,0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,0.5,0.4,0.5,0.9,553882
+Josh Naylor,26,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,4,4,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0.25,0.25,1.0,1.25,647304
+Kevin Newman,29,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,4,4,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0.5,0.5,1.25,1.75,621028
+Brandon Nimmo,30,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,5,3,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0,0.333,0.6,0.333,0.933,607043
+Ryan Noda,27,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,676116
+Logan O\'Hoppe,23,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,4,3,1,1,1,0,0,2,0,0,0,0,0,1,0,0,0,0.333,0.25,0.667,0.917,681351
+Tyler O\'Neill,28,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0.25,0.25,0.25,0.5,641933
+Rougned Odor,29,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,4,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.25,0.0,0.25,596059
+Shohei Ohtani,28,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,5,5,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0.4,0.4,0.4,0.8,660271
+Matt Olson,29,0,Maj-NL,"Apr 1, 2023",Atlanta,@,Washington,1,4,3,2,2,0,0,2,3,1,0,1,0,0,0,0,0,0,0.667,0.75,2.667,3.417,621566
+James Outman,26,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,681546
+Marcell Ozuna,32,0,Maj-NL,"Apr 1, 2023",Atlanta,@,Washington,1,4,4,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0.25,0.25,1.0,1.25,542303
+Cristian Pache,24,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665506
+Isaac Paredes,24,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,670623
+Vinnie Pasquantino,25,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,4,3,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.333,0.5,0.333,0.833,686469
+Joc Pederson,31,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,5,4,2,2,0,0,1,1,1,0,2,0,0,0,0,0,0,0.5,0.6,1.25,1.85,592626
+Jeremy Pe\xc3\xb1a,25,0,Maj-AL,"Apr 1, 2023",Houston,,Chicago,1,5,4,1,2,1,0,0,1,0,0,0,1,0,0,0,0,0,0.5,0.6,0.75,1.35,665161
+Geraldo Perdomo,23,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,672695
+Carlos P\xc3\xa9rez,32,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,1.0,2.0,542208
+Roberto P\xc3\xa9rez,34,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,547379
+Salvador Perez,33,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,4,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.75,1.25,521692
+Tommy Pham,35,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,1.0,2.0,502054
+Brett Phillips,29,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,621433
+Cal Raleigh,26,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,663728
+Luke Raley,28,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,5,4,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0.0,0.2,0.0,0.2,670042
+Jos\xc3\xa9 Ram\xc3\xadrez,30,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0.25,0.25,0.25,0.5,608070
+J.T. Realmuto,32,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,3,2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.5,0.667,0.5,1.167,592663
+Rob Refsnyder,32,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,608701
+Anthony Rendon,33,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,4,3,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,543685
+Hunter Renfroe,31,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,5,4,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.2,0.0,0.2,592669
+Luis Rengifo,26,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,5,3,3,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0.0,0.4,0.0,0.4,650859
+Franmil Reyes,27,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,4,2,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0.0,0.5,0.0,0.5,614177
+Bryan Reynolds,28,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,668804
+Austin Riley,26,0,Maj-NL,"Apr 1, 2023",Atlanta,@,Washington,1,4,4,1,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0.25,0.25,0.25,0.5,663586
+Edwin Rios,29,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,3,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.333,0.0,0.333,621458
+Anthony Rizzo,33,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,5,3,0,1,1,0,0,1,2,0,1,0,0,0,0,0,0,0.333,0.6,0.667,1.267,519203
+Luis Robert Jr.,25,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,5,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,673357
+Victor Robles,26,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,3,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.5,0.667,0.5,1.167,645302
+Julio Rodr\xc3\xadguez,22,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,4,4,0,2,0,0,0,0,0,0,1,0,0,0,1,1,0,0.5,0.5,0.5,1.0,677594
+Jake Rogers,28,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,668670
+Miguel Rojas,34,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,500743
+Brent Rooker,28,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,667670
+Amed Rosario,27,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,642708
+Eddie Rosario,31,0,Maj-NL,"Apr 1, 2023",Atlanta,@,Washington,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,592696
+Esteury Ruiz,24,0,Maj-AL,"Apr 1, 2023",Oakland,,Los Angeles,1,4,2,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0.0,0.333,0.0,0.333,665923
+Keibert Ruiz,24,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,4,4,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0.5,0.5,1.25,1.75,660688
+Adley Rutschman,25,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,5,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,668939
+Blake Sabol,25,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,4,2,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0.5,0.75,0.5,1.25,666165
+Jes\xc3\xbas S\xc3\xa1nchez,25,0,Maj-NL,"Apr 1, 2023",Miami,,New York,1,4,3,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.333,0.5,0.667,1.167,660821
+Carlos Santana,37,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,4,4,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,467793
+Anthony Santander,28,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,5,5,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0.4,0.4,0.6,1.0,623993
+Kyle Schwarber,30,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,4,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,656941
+Corey Seager,29,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,6,4,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0.25,0.333,0.25,0.583,608369
+Jean Segura,33,0,Maj-NL,"Apr 1, 2023",Miami,,New York,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,516416
+Marcus Semien,32,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,6,5,2,1,0,0,1,2,0,0,2,0,0,1,0,0,0,0.2,0.167,0.8,0.967,543760
+Jose Siri,27,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,5,5,1,1,1,0,0,2,0,0,1,0,0,0,1,0,0,0.2,0.2,0.4,0.6,642350
+Dominic Smith,28,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,4,3,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.25,0.0,0.25,642086
+Josh H. Smith,25,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,5,3,2,1,0,0,0,0,1,0,2,1,0,0,0,0,0,0.333,0.6,0.333,0.933,669701
+Canaan Smith-Njigba,24,0,Maj-NL,"Apr 1, 2023",Pittsburgh,@,Cincinnati,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,675986
+Jorge Soler,31,0,Maj-NL,"Apr 1, 2023",Miami,,New York,1,5,4,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.2,0.0,0.2,624585
+Edmundo Sosa,27,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,624641
+Juan Soto,24,0,Maj-NL,"Apr 1, 2023",San Diego,,Colorado,1,5,4,2,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0.25,0.4,0.25,0.65,665742
+George Springer,33,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,5,5,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0.0,0.0,0.0,0.0,543807
+Giancarlo Stanton,33,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,5,5,1,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0.2,0.2,0.8,1.0,519317
+Spencer Steer,25,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,668715
+Tyler Stephenson,26,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,4,4,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.75,1.25,663886
+Bryson Stott,25,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,4,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.75,1.25,681082
+Myles Straw,28,0,Maj-AL,"Apr 1, 2023",Cleveland,@,Seattle,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,664702
+Garrett Stubbs,30,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,596117
+Eugenio Su\xc3\xa1rez,31,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,553993
+Dansby Swanson,29,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,4,4,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.75,1.0,1.75,621020
+Raimel Tapia,29,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,606132
+Chris Taylor,32,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,4,3,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,621035
+Michael A. Taylor,32,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,572191
+Rowdy Tellez,28,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,4,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,642133
+Alek Thomas,23,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,677950
+Lane Thomas,27,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,3,3,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.667,0.667,1.0,1.667,657041
+Bubba Thompson,25,0,Maj-AL,"Apr 1, 2023",Texas,,Philadelphia,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,2.0,3.0,669352
+Trayce Thompson,32,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,4,4,3,3,0,0,3,8,0,0,1,0,0,0,0,0,0,0.75,0.75,3.0,3.75,572204
+Spencer Torkelson,23,0,Maj-AL,"Apr 1, 2023",Detroit,@,Tampa Bay,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,679529
+Luis Torrens,27,0,Maj-NL,"Apr 1, 2023",Chicago,,Milwaukee,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,620443
+Gleyber Torres,26,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,650402
+Ezequiel Tovar,21,0,Maj-NL,"Apr 1, 2023",Colorado,@,San Diego,1,3,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,678662
+Jose Trevino,30,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,624431
+Mike Trout,31,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,5,4,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0.25,0.4,0.5,0.9,545361
+Kyle Tucker,26,0,Maj-AL,"Apr 1, 2023",Houston,,Chicago,1,5,5,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0.4,0.4,0.4,0.8,663656
+Brice Turang,23,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,0.0,668930
+Justin Turner,38,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,5,4,1,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0.5,0.6,0.75,1.35,457759
+Trea Turner,30,0,Maj-NL,"Apr 1, 2023",Philadelphia,@,Texas,1,5,5,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.8,1.2,607208
+Ram\xc3\xb3n Ur\xc3\xadas,29,0,Maj-AL,"Apr 1, 2023",Baltimore,@,Boston,1,5,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,602104
+Gio Urshela,31,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,5,4,2,3,0,0,0,2,1,0,0,0,0,0,0,0,0,0.75,0.8,0.75,1.55,570482
+Ildemaro Vargas,31,0,Maj-NL,"Apr 1, 2023",Washington,,Atlanta,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,545121
+Miguel Vargas,23,0,Maj-NL,"Apr 1, 2023",Los Angeles,,Arizona,1,4,2,2,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0.5,0.75,0.5,1.25,678246
+Daulton Varsho,26,0,Maj-AL,"Apr 1, 2023",Toronto,@,St. Louis,1,5,3,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0,0.4,0.0,0.4,662139
+Andrew Vaughn,25,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,683734
+Christian V\xc3\xa1zquez,32,0,Maj-AL,"Apr 1, 2023",Minnesota,@,Kansas City,1,3,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.667,0.667,0.667,1.333,543877
+Alex Verdugo,27,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,5,5,1,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0.2,0.2,0.8,1.0,657077
+David Villar,26,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,5,5,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.4,0.8,681584
+Daniel Vogelbach,30,0,Maj-NL,"Apr 1, 2023",New York,@,Miami,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,596129
+Luke Voit,32,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,572228
+Anthony Volpe,22,0,Maj-AL,"Apr 1, 2023",New York,,San Francisco,1,4,4,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0.5,0.5,0.5,1.0,683011
+Jason Vosler,29,0,Maj-NL,"Apr 1, 2023",Cincinnati,,Pittsburgh,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,613564
+LaMonte Wade Jr.,29,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,5,3,0,1,0,0,0,1,2,0,1,0,0,0,0,1,0,0.333,0.6,0.333,0.933,664774
+Christian Walker,32,0,Maj-NL,"Apr 1, 2023",Arizona,@,Los Angeles,1,3,3,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0.667,0.667,1.667,2.333,572233
+Jordan Walker,21,0,Maj-NL,"Apr 1, 2023",St. Louis,,Toronto,1,4,4,0,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0.5,0.5,0.5,1.0,691023
+Taylor Walls,26,0,Maj-AL,"Apr 1, 2023",Tampa Bay,,Detroit,1,5,4,2,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0.25,0.4,0.25,0.65,670764
+Taylor Ward,29,0,Maj-AL,"Apr 1, 2023",Los Angeles,@,Oakland,1,5,5,2,3,0,0,1,4,0,0,2,0,0,0,0,0,0,0.6,0.6,1.2,1.8,621493
+Joey Wendle,33,0,Maj-NL,"Apr 1, 2023",Miami,,New York,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,621563
+Joey Wiemer,24,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,1.0,1.5,686894
+Jesse Winker,29,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1.0,1.0,1.0,2.0,608385
+Bobby Witt,23,0,Maj-AL,"Apr 1, 2023",Kansas City,,Minnesota,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,677951
+Kolten Wong,32,0,Maj-AL,"Apr 1, 2023",Seattle,,Cleveland,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543939
+Mike Yastrzemski,32,0,Maj-NL,"Apr 1, 2023",San Francisco,@,New York,1,5,5,2,2,2,0,0,1,0,0,2,0,0,0,0,0,0,0.4,0.4,0.8,1.2,573262
+Christian Yelich,31,0,Maj-NL,"Apr 1, 2023",Milwaukee,@,Chicago,1,4,4,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0.25,0.25,0.25,0.5,592885
+Masataka Yoshida,29,0,Maj-AL,"Apr 1, 2023",Boston,,Baltimore,1,5,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,807799
+Seby Zavala,29,0,Maj-AL,"Apr 1, 2023",Chicago,@,Houston,1,3,3,1,2,0,0,1,2,0,0,1,0,0,0,0,0,0,0.667,0.667,1.667,2.333,664874

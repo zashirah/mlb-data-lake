@@ -1,0 +1,303 @@
+Name,Age,#days,Lev,Date,Tm, ,Opp,G,PA,AB,R,H,2B,3B,HR,RBI,BB,IBB,SO,HBP,SH,SF,GDP,SB,CS,BA,OBP,SLG,OPS,mlbID
+CJ Abrams,22,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,682928
+Jos\xc3\xa9 Abreu,36,2,Maj-AL,"Mar 30, 2023",Houston,,Chicago,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,547989
+Ronald Acuna Jr.,25,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,6,6,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0.333,0.333,0.333,0.667,660670
+Willy Adames,27,2,Maj-NL,"Mar 30, 2023",Milwaukee,@,Chicago,1,4,3,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0.333,0.5,0.333,0.833,642715
+Jes\xc3\xbas Aguilar,33,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,4,3,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0.0,0.25,0.0,0.25,542583
+Nick Ahmed,33,2,Maj-NL,"Mar 30, 2023",Arizona,@,Los Angeles,1,3,3,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0.333,0.333,0.667,1.0,605113
+Ozzie Albies,26,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,5,5,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0.4,0.4,0.4,0.8,645277
+Nick Allen,24,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,669397
+Pete Alonso,28,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,5,4,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.2,0.0,0.2,624413
+Yordan Alvarez,26,2,Maj-AL,"Mar 30, 2023",Houston,,Chicago,1,4,3,2,1,0,0,1,1,0,0,2,1,0,0,0,0,0,0.333,0.5,1.333,1.833,670541
+Brian Anderson,30,2,Maj-NL,"Mar 30, 2023",Milwaukee,@,Chicago,1,3,2,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.5,0.667,0.5,1.167,605119
+Tim Anderson,30,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,5,4,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0.5,0.6,0.75,1.35,641313
+Elvis Andrus,34,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,462101
+Orlando Arcia,28,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,5,4,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0.25,0.4,0.25,0.65,606115
+Nolan Arenado,32,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,5,5,0,2,1,0,0,3,0,0,0,0,0,0,1,0,0,0.4,0.4,0.6,1.0,571448
+Randy Arozarena,28,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,4,4,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,668227
+Luis Arraez,26,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,4,4,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0.5,0.5,0.75,1.25,650333
+Christian Arroyo,28,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,4,4,0,1,1,0,0,2,0,0,1,0,0,0,1,0,0,0.25,0.25,0.5,0.75,624414
+Ji Hwan Bae,23,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,4,3,2,2,1,0,0,0,1,0,0,0,0,0,0,2,0,0.667,0.75,1.0,1.75,678225
+Javier B\xc3\xa1ez,30,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,4,3,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.333,0.5,0.333,0.833,595879
+Jose Barrero,25,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,676480
+Joey Bart,26,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,663698
+Matt Beaty,30,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,607461
+Josh Bell,30,2,Maj-AL,"Mar 30, 2023",Cleveland,@,Seattle,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,605137
+Cody Bellinger,27,2,Maj-NL,"Mar 30, 2023",Chicago,,Milwaukee,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,641355
+Brandon Belt,35,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,4,4,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.5,0.75,474832
+Andrew Benintendi,28,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,643217
+Will Benson,25,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,4,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,666181
+Jon Berti,33,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,542932
+Christian Bethancourt,31,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.333,0.0,0.333,542194
+Mookie Betts,30,2,Maj-NL,"Mar 30, 2023",Los Angeles,,Arizona,1,5,4,1,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.2,605141
+Bo Bichette,25,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,6,6,2,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0.667,0.667,0.833,1.5,666182
+Cavan Biggio,28,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,1.0,,,624415
+Charlie Blackmon,36,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,5,5,1,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0.6,0.6,0.8,1.4,453568
+Xander Bogaerts,30,2,Maj-NL,"Mar 30, 2023",San Diego,,Colorado,1,4,4,1,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0.75,0.75,1.25,2.0,593428
+Alec Bohm,26,2,Maj-NL,"Mar 30, 2023",Philadelphia,@,Texas,1,4,4,2,3,1,0,1,3,0,0,1,0,0,0,0,0,0,0.75,0.75,1.75,2.5,664761
+Alex Bregman,29,2,Maj-AL,"Mar 30, 2023",Houston,,Chicago,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608324
+Will Brennan,25,2,Maj-AL,"Mar 30, 2023",Cleveland,@,Seattle,1,3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.333,0.667,686823
+Seth Brown,30,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,4,4,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0.5,0.5,0.75,1.25,664913
+Kris Bryant,31,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,5,5,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0.6,0.6,0.8,1.4,592178
+Byron Buxton,29,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,5,5,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.8,1.2,621439
+Miguel Cabrera,40,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,4,4,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0.25,0.25,0.5,0.75,408234
+Oswaldo Cabrera,24,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,4,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665828
+Alex Call,28,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,3,2,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0.0,0.0,0.0,0.0,669743
+Jeimer Candelario,29,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,600869
+Mark Canha,34,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,4,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.25,0.0,0.25,592192
+Conner Capel,26,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,668843
+Matt Carpenter,37,2,Maj-NL,"Mar 30, 2023",San Diego,,Colorado,1,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,572761
+Corbin Carroll,22,2,Maj-NL,"Mar 30, 2023",Arizona,@,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,682998
+Triston Casas,23,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,4,2,0,0,0,0,0,2,1,0,1,0,0,1,0,0,0,0.0,0.25,0.0,0.25,671213
+Nick Castellanos,31,2,Maj-NL,"Mar 30, 2023",Philadelphia,@,Texas,1,5,5,2,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0.4,0.4,0.6,1.0,592206
+Harold Castro,29,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,5,5,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0.2,0.4,605612
+Rodolfo Castro,24,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,666801
+Jake Cave,30,2,Maj-NL,"Mar 30, 2023",Philadelphia,@,Texas,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,595909
+Matt Chapman,30,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,5,5,0,3,0,0,0,1,0,0,1,0,0,0,0,0,1,0.6,0.6,0.6,1.2,656305
+Jazz Chisholm Jr.,25,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665862
+Oscar Col\xc3\xa1s,24,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,693049
+Michael Conforto,30,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,624424
+William Contreras,25,2,Maj-NL,"Mar 30, 2023",Milwaukee,@,Chicago,1,4,4,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0.25,0.25,0.25,0.5,661388
+Willson Contreras,31,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,4,4,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,575929
+Garrett Cooper,32,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,4,4,1,1,0,0,1,2,0,0,2,0,0,0,1,0,0,0.25,0.25,1.0,1.25,643265
+Carlos Correa,28,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,5,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,621043
+Brandon Crawford,36,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543063
+J.P. Crawford,28,2,Maj-AL,"Mar 30, 2023",Seattle,,Cleveland,1,3,2,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.5,0.667,0.5,1.167,641487
+C.J. Cron,33,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,5,5,2,4,1,0,2,5,0,0,1,0,0,0,0,0,0,0.8,0.8,2.2,3.0,543068
+Jake Cronenworth,29,2,Maj-NL,"Mar 30, 2023",San Diego,,Colorado,1,4,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,630105
+Oneil Cruz,24,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,5,2,2,1,0,0,1,2,2,0,0,0,0,1,0,0,0,0.5,0.6,2.0,2.6,665833
+Travis d\'Arnaud,34,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,5,5,2,4,1,0,0,2,0,0,1,0,0,0,0,0,0,0.8,0.8,1.0,1.8,518595
+David Dahl,29,2,Maj-NL,"Mar 30, 2023",San Diego,,Colorado,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,621311
+J.D. Davis,30,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,605204
+Yonathan Daza,29,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,5,5,1,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0.2,0.2,0.2,0.4,602074
+Bryan De La Cruz,26,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,650559
+Rafael Devers,26,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,5,5,2,2,1,0,0,1,0,0,2,0,0,0,0,0,0,0.4,0.4,0.6,1.0,646240
+Aledmys D\xc3\xadaz,32,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,4,3,0,2,0,0,0,1,1,0,1,0,0,0,0,0,0,0.667,0.75,0.667,1.417,649557
+Elias D\xc3\xadaz,32,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,5,4,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0.25,0.4,0.25,0.65,553869
+Yainer Diaz,24,2,Maj-AL,"Mar 30, 2023",Houston,,Chicago,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,673237
+Yandy D\xc3\xadaz,31,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,3,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.333,0.0,0.333,650490
+Corey Dickerson,34,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,572816
+Josh Donaldson,37,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,4,4,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,518626
+Brendan Donovan,26,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,6,6,3,3,0,0,1,2,0,0,0,0,0,0,0,0,0,0.5,0.5,1.0,1.5,680977
+Hunter Dozier,31,2,Maj-AL,"Mar 30, 2023",Kansas City,,Minnesota,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,641531
+Brandon Drury,30,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,592273
+Mauricio Dub\xc3\xb3n,28,2,Maj-AL,"Mar 30, 2023",Houston,,Chicago,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,643289
+Adam Duvall,34,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,5,4,1,1,0,0,0,1,0,0,2,1,0,0,0,0,0,0.25,0.4,0.25,0.65,594807
+Tommy Edman,28,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,5,5,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.4,0.8,669242
+Eduardo Escobar,34,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,4,4,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,500871
+Thairo Estrada,27,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,4,4,0,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0.5,0.5,0.5,1.0,642731
+Stuart Fairchild,27,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,,,656413
+Kyle Farmer,32,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,2,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1.0,1.0,1.0,2.0,571657
+Wilmer Flores,31,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0.0,0.25,0.0,0.25,527038
+Estevan Florial,25,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,664314
+Jake Fraley,28,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,5,4,1,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0.5,0.6,0.5,1.1,641584
+Ty France,28,2,Maj-AL,"Mar 30, 2023",Seattle,,Cleveland,1,4,4,1,3,1,0,1,3,0,0,0,0,0,0,0,0,0,0.75,0.75,1.75,2.5,664034
+Wander Franco,22,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,4,4,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0.5,0.5,1.25,1.75,677551
+Adam Frazier,31,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,5,4,3,2,2,0,0,0,1,0,1,0,0,0,0,1,0,0.5,0.6,1.0,1.6,624428
+Freddie Freeman,33,2,Maj-NL,"Mar 30, 2023",Los Angeles,,Arizona,1,5,4,1,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0.5,0.6,0.5,1.1,518692
+TJ Friedl,27,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,5,4,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.2,670770
+Joey Gallo,29,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608336
+Adolis Garc\xc3\xada,30,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,4,4,1,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,666969
+Avisa\xc3\xadl Garc\xc3\xada,32,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.333,0.0,0.333,541645
+Luis Garc\xc3\xada,23,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,671277
+Andr\xc3\xa9s Gim\xc3\xa9nez,24,2,Maj-AL,"Mar 30, 2023",Cleveland,@,Seattle,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665926
+Paul Goldschmidt,35,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,5,4,1,2,1,0,0,1,1,0,1,0,0,0,0,1,0,0.5,0.6,0.75,1.35,502671
+Yan Gomes,35,2,Maj-NL,"Mar 30, 2023",Chicago,,Milwaukee,1,4,4,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,543228
+Romy Gonz\xc3\xa1lez,26,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,663853
+Nick Gordon,27,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,624503
+Nolan Gorman,23,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,5,3,0,1,0,0,0,0,2,1,2,0,0,0,0,0,0,0.333,0.6,0.333,0.933,669357
+Yasmani Grandal,34,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,4,4,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0.25,0.25,1.0,1.25,518735
+Riley Greene,22,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,4,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.333,0.5,0.333,0.833,682985
+Trent Grisham,26,2,Maj-NL,"Mar 30, 2023",San Diego,,Colorado,1,4,4,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.5,0.75,663757
+Robbie Grossman,33,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,4,3,1,1,0,0,1,3,1,0,1,0,0,0,0,0,0,0.333,0.5,1.333,1.833,543257
+Vladimir Guerrero Jr.,24,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,6,4,0,2,0,0,0,3,0,0,0,1,0,1,0,0,0,0.5,0.5,0.5,1.0,665489
+Lourdes Gurriel Jr.,29,2,Maj-NL,"Mar 30, 2023",Arizona,@,Los Angeles,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0.25,0.25,0.25,0.5,666971
+Eric Haase,30,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,606992
+Darick Hall,27,2,Maj-NL,"Mar 30, 2023",Philadelphia,@,Texas,1,5,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0.0,0.2,0.0,0.2,669742
+Ian Happ,28,2,Maj-NL,"Mar 30, 2023",Chicago,,Milwaukee,1,4,2,1,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0.5,0.75,0.5,1.25,664023
+Michael Harris II,22,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,5,4,2,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0.25,0.4,0.25,0.65,671739
+Ke\'Bryan Hayes,26,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,663647
+Austin Hays,27,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,5,5,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0.0,0.0,0.0,0.0,669720
+Austin Hedges,30,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,4,2,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0.0,0.333,0.0,0.333,595978
+Jonah Heim,28,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,4,4,2,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0.5,0.5,0.75,1.25,641680
+Gunnar Henderson,22,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,5,3,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0.0,0.4,0.0,0.4,683002
+Enrique Hern\xc3\xa1ndez,31,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,571771
+Teoscar Hern\xc3\xa1ndez,30,2,Maj-AL,"Mar 30, 2023",Seattle,,Cleveland,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,606192
+Sam Hilliard,29,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,,1.0,,,656541
+Nico Hoerner,26,2,Maj-NL,"Mar 30, 2023",Chicago,,Milwaukee,1,4,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,663538
+Eric Hosmer,33,2,Maj-NL,"Mar 30, 2023",Chicago,,Milwaukee,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,543333
+Jonathan India,26,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,5,4,2,2,1,0,0,0,1,0,1,0,0,0,0,0,0,0.5,0.6,0.75,1.35,663697
+Kyle Isbel,26,2,Maj-AL,"Mar 30, 2023",Kansas City,,Minnesota,1,3,2,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0.5,0.667,1.0,1.667,664728
+Eloy Jim\xc3\xa9nez,26,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,5,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,650391
+Aaron Judge,31,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,4,4,1,2,0,0,1,2,0,0,2,0,0,0,0,0,0,0.5,0.5,1.25,1.75,592450
+Josh Jung,25,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,4,3,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.25,0.0,0.25,673962
+Jarred Kelenic,23,2,Maj-AL,"Mar 30, 2023",Seattle,,Cleveland,1,3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0.333,0.333,0.333,0.667,672284
+Tony Kemp,31,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,4,3,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0.333,0.5,0.667,1.167,643393
+Max Kepler,30,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,5,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,596146
+Kevin Kiermaier,33,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,5,5,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.4,0.8,595281
+Ha-Seong Kim,27,2,Maj-NL,"Mar 30, 2023",San Diego,,Colorado,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0.25,0.25,0.25,0.5,673490
+Alejandro Kirk,24,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,5,5,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0.2,0.2,0.2,0.4,672386
+Andrew Knizner,28,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,668800
+Ryan Kreidler,25,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,668952
+Steven Kwan,25,2,Maj-AL,"Mar 30, 2023",Cleveland,@,Seattle,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,680757
+Tommy La Stella,34,2,Maj-AL,"Mar 30, 2023",Seattle,,Cleveland,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,600303
+Shea Langeliers,25,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.333,0.0,0.333,669127
+Trevor Larnach,26,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,5,4,1,2,0,0,0,1,1,0,2,0,0,0,0,0,0,0.5,0.6,0.5,1.1,663616
+Ram\xc3\xb3n Laureano,28,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0.0,0.0,0.0,0.0,657656
+DJ LeMahieu,34,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,4,4,0,1,0,0,0,1,0,0,3,0,0,0,0,0,0,0.25,0.25,0.25,0.5,518934
+Kyle Lewis,27,2,Maj-NL,"Mar 30, 2023",Arizona,@,Los Angeles,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,641786
+Francisco Lindor,29,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,5,4,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0.25,0.2,0.25,0.45,596019
+Evan Longoria,37,2,Maj-NL,"Mar 30, 2023",Arizona,@,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,446334
+Brandon Lowe,28,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,3,2,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.333,0.0,0.333,664040
+Nathaniel Lowe,27,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,4,3,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0.333,0.5,0.333,0.833,663993
+Nathan Lukes,28,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,664770
+Manny Machado,30,2,Maj-NL,"Mar 30, 2023",San Diego,,Colorado,1,4,3,0,1,0,0,0,1,0,0,2,0,0,1,0,0,0,0.333,0.25,0.333,0.583,592518
+Mart\xc3\xadn Maldonado,36,2,Maj-AL,"Mar 30, 2023",Houston,,Chicago,1,3,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.333,0.667,455117
+Trey Mancini,31,2,Maj-NL,"Mar 30, 2023",Chicago,,Milwaukee,1,4,3,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0.333,0.5,0.333,0.833,641820
+Manuel Margot,28,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0.0,0.0,0.0,0.0,622534
+Brandon Marsh,25,2,Maj-NL,"Mar 30, 2023",Philadelphia,@,Texas,1,4,4,1,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0.5,0.5,1.25,1.75,669016
+Ketel Marte,29,2,Maj-NL,"Mar 30, 2023",Arizona,@,Los Angeles,1,4,3,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.333,0.5,0.333,0.833,606466
+Starling Marte,34,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,5,4,1,2,0,0,0,0,1,0,0,0,0,0,0,1,0,0.5,0.6,0.5,1.1,516782
+J.D. Martinez,35,2,Maj-NL,"Mar 30, 2023",Los Angeles,,Arizona,1,4,4,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,502110
+Michael Massey,25,2,Maj-AL,"Mar 30, 2023",Kansas City,,Minnesota,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,686681
+Miles Mastrobuoni,27,2,Maj-NL,"Mar 30, 2023",Chicago,,Milwaukee,1,3,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,670156
+Jorge Mateo,28,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,5,3,2,2,0,0,0,1,1,0,0,0,1,0,0,2,0,0.667,0.75,0.667,1.417,622761
+Nick Maton,26,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665155
+Jake McCarthy,25,2,Maj-NL,"Mar 30, 2023",Arizona,@,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,664983
+Andrew McCutchen,36,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,5,2,0,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0.5,0.8,0.5,1.3,457705
+Reese McGuire,28,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,2,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,624512
+Ryan McKenna,26,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,663630
+Zach McKinstry,28,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,656716
+Ryan McMahon,28,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,5,5,0,1,1,0,0,0,0,0,2,0,0,0,0,1,0,0.2,0.2,0.4,0.6,641857
+Jeff McNeil,31,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,4,4,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,643446
+Austin Meadows,28,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,4,4,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0.75,0.75,1.0,1.75,640457
+MJ Melendez,24,2,Maj-AL,"Mar 30, 2023",Kansas City,,Minnesota,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0.0,0.25,0.0,0.25,669004
+Joey Meneses,31,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,5,5,0,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0.4,0.4,0.4,0.8,608841
+Whit Merrifield,34,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,5,3,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0.0,0.4,0.0,0.4,593160
+Jake Meyers,27,2,Maj-AL,"Mar 30, 2023",Houston,,Chicago,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,676694
+Brad Miller,33,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,4,4,1,1,0,0,1,2,0,0,2,0,0,0,0,0,0,0.25,0.25,1.0,1.25,543543
+Jose Miranda,25,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,5,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.0,0.4,0.0,0.4,669304
+Garrett Mitchell,24,2,Maj-NL,"Mar 30, 2023",Milwaukee,@,Chicago,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,669003
+Yo\xc3\xa1n Moncada,28,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,5,5,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0.2,0.2,0.2,0.4,660162
+Elehuris Montero,24,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,5,5,1,2,0,0,1,1,0,0,3,0,0,0,0,0,0,0.4,0.4,1.0,1.4,660707
+Gabriel Moreno,23,2,Maj-NL,"Mar 30, 2023",Arizona,@,Los Angeles,1,3,2,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0.0,0.0,0.0,0.0,672515
+Ryan Mountcastle,26,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,6,4,0,1,1,0,0,1,2,0,0,0,0,0,0,0,0,0.25,0.5,0.5,1.0,663624
+Cedric Mullins,28,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,6,4,2,1,0,0,0,1,2,0,1,0,0,0,0,2,0,0.25,0.5,0.25,0.75,656775
+Max Muncy,32,2,Maj-NL,"Mar 30, 2023",Los Angeles,,Arizona,1,5,5,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,571970
+Sean Murphy,28,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,5,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0.0,0.0,0.0,0.0,669221
+Wil Myers,32,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,4,3,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0.333,0.5,0.333,0.833,571976
+Omar Narv\xc3\xa1ez,31,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,4,3,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0.333,0.5,0.333,0.833,553882
+Josh Naylor,26,2,Maj-AL,"Mar 30, 2023",Cleveland,@,Seattle,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,647304
+Brandon Nimmo,30,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,5,3,1,1,1,0,0,3,1,0,0,0,0,1,0,0,0,0.333,0.4,0.667,1.067,607043
+Ryan Noda,27,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,676116
+Austin Nola,33,2,Maj-NL,"Mar 30, 2023",San Diego,,Colorado,1,4,3,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0.333,0.5,0.333,0.833,543592
+Lars Nootbaar,25,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,6,4,1,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0.25,0.5,0.25,0.75,663457
+Logan O\'Hoppe,23,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,3,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.333,0.333,0.333,0.667,681351
+Tyler O\'Neill,28,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,5,4,1,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0.25,0.4,1.0,1.4,641933
+Shohei Ohtani,28,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,4,3,0,1,0,0,0,0,1,1,2,0,0,0,0,0,0,0.333,0.5,0.333,0.833,660271
+Edward Olivares,27,2,Maj-AL,"Mar 30, 2023",Kansas City,,Minnesota,1,3,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.333,0.0,0.333,658668
+Matt Olson,29,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,5,5,1,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0.4,0.4,0.6,1.0,621566
+James Outman,26,2,Maj-NL,"Mar 30, 2023",Los Angeles,,Arizona,1,4,3,3,2,0,0,1,2,1,0,1,0,0,0,0,0,0,0.667,0.75,1.667,2.417,681546
+Marcell Ozuna,32,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,542303
+Isaac Paredes,24,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,4,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,670623
+Vinnie Pasquantino,25,2,Maj-AL,"Mar 30, 2023",Kansas City,,Minnesota,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,686469
+Joc Pederson,31,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,4,3,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0.0,0.25,0.0,0.25,592626
+Jeremy Pe\xc3\xb1a,25,2,Maj-AL,"Mar 30, 2023",Houston,,Chicago,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0.25,0.25,0.25,0.5,665161
+David Peralta,35,2,Maj-NL,"Mar 30, 2023",Los Angeles,,Arizona,1,4,4,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,444482
+Roberto P\xc3\xa9rez,34,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,2,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,547379
+Salvador Perez,33,2,Maj-AL,"Mar 30, 2023",Kansas City,,Minnesota,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,521692
+Jace Peterson,33,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,607054
+Tommy Pham,35,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,502054
+Brett Phillips,29,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,621433
+Cal Raleigh,26,2,Maj-AL,"Mar 30, 2023",Seattle,,Cleveland,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25,0.25,0.25,0.5,663728
+Luke Raley,28,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,2,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,670042
+Harold Ram\xc3\xadrez,28,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,623912
+Jos\xc3\xa9 Ram\xc3\xadrez,30,2,Maj-AL,"Mar 30, 2023",Cleveland,@,Seattle,1,4,4,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.5,0.75,608070
+J.T. Realmuto,32,2,Maj-NL,"Mar 30, 2023",Philadelphia,@,Texas,1,5,5,1,3,1,1,0,0,0,0,1,0,0,0,0,1,0,0.6,0.6,1.2,1.8,592663
+Rob Refsnyder,32,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,608701
+Anthony Rendon,33,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,4,3,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.25,0.0,0.25,543685
+Hunter Renfroe,31,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,592669
+Luis Rengifo,26,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.25,0.0,0.25,650859
+Franmil Reyes,27,2,Maj-AL,"Mar 30, 2023",Kansas City,,Minnesota,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,614177
+Bryan Reynolds,28,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,5,4,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0.25,0.4,0.25,0.65,668804
+Austin Riley,26,2,Maj-NL,"Mar 30, 2023",Atlanta,@,Washington,1,5,2,0,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0.0,0.6,0.0,0.6,663586
+Anthony Rizzo,33,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,519203
+Luis Robert Jr.,25,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,5,4,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,673357
+Victor Robles,26,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,4,2,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0.5,0.75,0.5,1.25,645302
+Julio Rodr\xc3\xadguez,22,2,Maj-AL,"Mar 30, 2023",Seattle,,Cleveland,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,677594
+Miguel Rojas,34,2,Maj-NL,"Mar 30, 2023",Los Angeles,,Arizona,1,4,4,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.75,1.25,500743
+Brent Rooker,28,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,667670
+Amed Rosario,27,2,Maj-AL,"Mar 30, 2023",Cleveland,@,Seattle,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,642708
+Esteury Ruiz,24,2,Maj-AL,"Mar 30, 2023",Oakland,,Los Angeles,1,3,3,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.333,0.333,0.333,0.667,665923
+Keibert Ruiz,24,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,4,4,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.75,1.25,660688
+Adley Rutschman,25,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,6,5,1,5,0,0,1,4,1,0,0,0,0,0,0,0,0,1.0,1.0,1.6,2.6,668939
+Blake Sabol,25,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,666165
+Carlos Santana,37,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,5,4,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.2,0.0,0.2,467793
+Anthony Santander,28,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,6,6,0,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0.333,0.333,0.5,0.833,623993
+Jonathan Schoop,31,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,3,2,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0.0,0.333,0.0,0.333,570731
+Kyle Schwarber,30,2,Maj-NL,"Mar 30, 2023",Philadelphia,@,Texas,1,5,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,656941
+Corey Seager,29,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,5,3,2,1,0,0,0,0,2,0,0,0,0,0,1,0,0,0.333,0.6,0.333,0.933,608369
+Jean Segura,33,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0.0,0.25,0.0,0.25,516416
+Marcus Semien,32,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,5,5,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0,0.4,0.4,0.4,0.8,543760
+Jose Siri,27,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,3,3,1,1,0,0,1,1,0,0,2,0,0,0,0,0,0,0.333,0.333,1.333,1.667,642350
+Dominic Smith,28,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,4,3,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0.667,0.75,0.667,1.417,642086
+Josh H. Smith,25,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,2,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,669701
+Will Smith,28,2,Maj-NL,"Mar 30, 2023",Los Angeles,,Arizona,1,5,4,1,3,1,0,0,4,0,0,0,0,0,1,0,0,0,0.75,0.6,1.0,1.6,669257
+Canaan Smith-Njigba,24,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,5,5,0,1,0,0,0,0,0,0,3,0,0,0,1,0,0,0.2,0.2,0.2,0.4,675986
+Donovan Solano,35,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,2,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.5,0.5,0.5,1.0,456781
+Jorge Soler,31,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,4,4,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.5,0.75,624585
+Juan Soto,24,2,Maj-NL,"Mar 30, 2023",San Diego,,Colorado,1,4,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,665742
+George Springer,33,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,6,6,4,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0.833,0.833,0.833,1.667,543807
+Jacob Stallings,33,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,3,3,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0.333,0.333,0.667,1.0,607732
+Giancarlo Stanton,33,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.25,0.25,0.25,0.5,519317
+Spencer Steer,25,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,4,2,1,1,0,0,1,1,2,0,0,0,0,0,0,0,0,0.5,0.75,2.0,2.75,668715
+Tyler Stephenson,26,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0.25,0.25,0.25,0.5,663886
+Bryson Stott,25,2,Maj-NL,"Mar 30, 2023",Philadelphia,@,Texas,1,4,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.25,0.25,0.25,0.5,681082
+Myles Straw,28,2,Maj-AL,"Mar 30, 2023",Cleveland,@,Seattle,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,664702
+Eugenio Su\xc3\xa1rez,31,2,Maj-AL,"Mar 30, 2023",Seattle,,Cleveland,1,3,3,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0.333,0.333,0.667,1.0,553993
+Jack Suwinski,24,2,Maj-NL,"Mar 30, 2023",Pittsburgh,@,Cincinnati,1,4,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,669261
+Dansby Swanson,29,2,Maj-NL,"Mar 30, 2023",Chicago,,Milwaukee,1,4,4,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0.75,0.75,0.75,1.5,621020
+Raimel Tapia,29,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,1.0,,,606132
+Michael A. Taylor,32,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,4,4,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0.25,0.25,0.25,0.5,572191
+Rowdy Tellez,28,2,Maj-NL,"Mar 30, 2023",Milwaukee,@,Chicago,1,4,3,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0.0,0.25,0.0,0.25,642133
+Lane Thomas,27,2,Maj-NL,"Mar 30, 2023",Washington,,Atlanta,1,5,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.2,0.4,657041
+Bubba Thompson,25,2,Maj-AL,"Mar 30, 2023",Texas,,Philadelphia,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,669352
+Spencer Torkelson,23,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,679529
+Gleyber Torres,26,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,4,3,2,1,0,0,1,2,1,0,0,0,0,0,0,1,0,0.333,0.5,1.333,1.833,650402
+Ezequiel Tovar,21,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,5,5,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0.2,0.4,678662
+Alan Trejo,27,2,Maj-NL,"Mar 30, 2023",Colorado,@,San Diego,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,676701
+Jose Trevino,30,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,3,3,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0.333,0.333,0.333,0.667,624431
+Mike Trout,31,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.25,0.0,0.25,545361
+Kyle Tucker,26,2,Maj-AL,"Mar 30, 2023",Houston,,Chicago,1,4,2,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,663656
+Brice Turang,23,2,Maj-NL,"Mar 30, 2023",Milwaukee,@,Chicago,1,3,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.333,0.333,0.333,0.667,668930
+Justin Turner,38,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,5,4,2,2,0,0,0,1,1,0,1,0,0,0,0,0,0,0.5,0.6,0.5,1.1,457759
+Trea Turner,30,2,Maj-NL,"Mar 30, 2023",Philadelphia,@,Texas,1,5,4,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0.25,0.4,0.75,1.15,607208
+Luis Ur\xc3\xadas,26,2,Maj-NL,"Mar 30, 2023",Milwaukee,@,Chicago,1,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,649966
+Ram\xc3\xb3n Ur\xc3\xadas,29,2,Maj-AL,"Mar 30, 2023",Baltimore,@,Boston,1,5,4,1,2,0,0,1,2,0,0,0,1,0,0,0,0,0,0.5,0.6,1.25,1.85,602104
+Gio Urshela,31,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,4,4,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.5,1.0,570482
+Miguel Vargas,23,2,Maj-NL,"Mar 30, 2023",Los Angeles,,Arizona,1,4,2,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,678246
+Daulton Varsho,26,2,Maj-AL,"Mar 30, 2023",Toronto,@,St. Louis,1,6,5,1,1,1,0,0,2,0,0,2,0,0,1,0,0,0,0.2,0.167,0.4,0.567,662139
+Andrew Vaughn,25,2,Maj-AL,"Mar 30, 2023",Chicago,@,Houston,1,5,4,0,1,1,0,0,2,0,0,2,1,0,0,0,0,0,0.25,0.4,0.5,0.9,683734
+Christian V\xc3\xa1zquez,32,2,Maj-AL,"Mar 30, 2023",Minnesota,@,Kansas City,1,4,4,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0.5,0.5,0.5,1.0,543877
+Alex Verdugo,27,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,5,5,2,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0.4,0.4,0.8,1.2,657077
+Matt Vierling,26,2,Maj-AL,"Mar 30, 2023",Detroit,@,Tampa Bay,1,3,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,663837
+David Villar,26,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,681584
+Daniel Vogelbach,30,2,Maj-NL,"Mar 30, 2023",New York,@,Miami,1,2,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.5,0.0,0.5,596129
+Anthony Volpe,22,2,Maj-AL,"Mar 30, 2023",New York,,San Francisco,1,3,2,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0.0,0.333,0.0,0.333,683011
+Jason Vosler,29,2,Maj-NL,"Mar 30, 2023",Cincinnati,,Pittsburgh,1,4,4,0,1,0,1,0,2,0,0,1,0,0,0,0,0,0,0.25,0.25,0.75,1.0,613564
+LaMonte Wade Jr.,29,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0,0.25,0.0,0.25,664774
+Christian Walker,32,2,Maj-NL,"Mar 30, 2023",Arizona,@,Los Angeles,1,3,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0.333,0.333,0.333,0.667,572233
+Jordan Walker,21,2,Maj-NL,"Mar 30, 2023",St. Louis,,Toronto,1,5,5,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0.2,0.2,0.2,0.4,691023
+Taylor Walls,26,2,Maj-AL,"Mar 30, 2023",Tampa Bay,,Detroit,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,670764
+Taylor Ward,29,2,Maj-AL,"Mar 30, 2023",Los Angeles,@,Oakland,1,4,4,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0.25,0.25,0.25,0.5,621493
+Joey Wendle,33,2,Maj-NL,"Mar 30, 2023",Miami,,New York,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,621563
+Jesse Winker,29,2,Maj-NL,"Mar 30, 2023",Milwaukee,@,Chicago,1,4,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,608385
+Patrick Wisdom,31,2,Maj-NL,"Mar 30, 2023",Chicago,,Milwaukee,1,4,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,621550
+Brett Wisely,24,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,689172
+Bobby Witt,23,2,Maj-AL,"Mar 30, 2023",Kansas City,,Minnesota,1,4,2,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,677951
+Connor Wong,27,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,2,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,657136
+Kolten Wong,32,2,Maj-AL,"Mar 30, 2023",Seattle,,Cleveland,1,4,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0.25,0.0,0.25,543939
+Mike Yastrzemski,32,2,Maj-NL,"Mar 30, 2023",San Francisco,@,New York,1,2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,573262
+Christian Yelich,31,2,Maj-NL,"Mar 30, 2023",Milwaukee,@,Chicago,1,4,2,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0.0,0.5,0.0,0.5,592885
+Masataka Yoshida,29,2,Maj-AL,"Mar 30, 2023",Boston,,Baltimore,1,5,4,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0.5,0.6,0.5,1.1,807799
+Mike Zunino,32,2,Maj-AL,"Mar 30, 2023",Cleveland,@,Seattle,1,3,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,572287

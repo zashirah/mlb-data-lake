@@ -13,8 +13,8 @@ pitching_boxscore as (
         "pos", 
         "team", 
         "opponent", 
-        "venue", 
-        "pitching.hand", 
+        "venue", -- not in daily file
+        -- "pitching.hand", -- should move to dim table
         "pitching.starting_pitcher", 
         "pitching.ip",
         "pitching.ip_whole",
