@@ -7,6 +7,7 @@ dbt_project/logs/
 dbt_project/target/
 
 dbt_project/data/data_catalog/*
-dbt_project/data/raw/baseballdatabank/*
 
 dbt_project/my_dbt_run.sh
+
+*/duckdb.db
