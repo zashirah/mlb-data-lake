@@ -3,9 +3,9 @@ name: ingest daily batting data
 on:
   workflow_dispatch:
     inputs:
-      bingo:
-        required: false
-        default: bango
+      days_ago:
+        required: true
+        default: 1
   schedule:
     - cron: '10 9 * * *' 
 
@@ -31,4 +31,4 @@ jobs:
         env:
           AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        run: python ${{ github.workspace }}/ingest/daily_batting_data/app.py
+        run: days_ago=${{ github.event.inputs.days_ago }} python ${{ github.workspace }}/ingest/daily_batting_data/app.py

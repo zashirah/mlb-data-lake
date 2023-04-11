@@ -6,8 +6,14 @@ from pybaseball import batting_stats_range
 
 
 def main():
+    days = int(os.environ.get('days_ago'))
+
+    if not days:
+        days = 1
+
+
     today = date.today()
-    delta = timedelta(days=1)
+    delta = timedelta(days)
     run_date = today - delta
     run_date_string = run_date.strftime("%Y-%m-%d")
     print("Run date:", run_date_string)
