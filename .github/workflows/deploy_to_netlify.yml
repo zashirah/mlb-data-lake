@@ -31,8 +31,13 @@ jobs:
           cd ${{ github.workspace }}/dbt_project/reports && npm i -force
           cd ${{ github.workspace }}/dbt_project/reports && mkdir -p data
           cp -r ${{ github.workspace }}/dbt_project/data/* ${{ github.workspace }}/dbt_project/reports/
-          cd ${{ github.workspace }} && npm run build
-      
+          cd ${{ github.workspace }}/dbt_project/reports && npm run build
+
+      - name: copy output to working directory
+        run: |
+          mkdir -p /home/runner/work/_temp/_github_home/build
+          cp -r ${{ github.workspace }}/dbt_project/reports/build/* /home/runner/work/_temp/_github_home/build
+
       - name: Deploy Netlify
         uses: danakim/gh-action-deploy-netlify@master
         with:
