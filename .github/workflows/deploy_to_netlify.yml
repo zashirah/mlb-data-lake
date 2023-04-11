@@ -35,6 +35,7 @@ jobs:
           cd ${{ github.workspace }}/dbt_project/reports && mkdir -p data
           cp -r ${{ github.workspace }}/dbt_project/data/* ${{ github.workspace }}/dbt_project/reports/
           cp ${{ github.workspace }}/dbt_project/data/duckdb.db ${{ github.workspace }}/dbt_project/reports/
+          cp ${{ github.workspace }}/dbt_project/data/duckdb.db ${{ github.workspace }}/
           cd ${{ github.workspace }}/dbt_project/reports && npm run build
 
       - name: copy output to working directory
