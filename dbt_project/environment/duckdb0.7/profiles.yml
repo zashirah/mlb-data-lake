@@ -6,7 +6,7 @@ mlb_data_lake:
       path: "{{ env_var('DBT_DUCKDB_PATH') }}"
       external_root: "{{ env_var('DBT_PROJECT_ROOT') }}/data/data_catalog"
     prod:
-      type: duckdb
+      type: duckdb+
       threads: 4
-      path: "{{ env_var('DBT_DUCKDB_PATH') }}"
+      path: "{{ env_var('DBT_PROJECT_ROOT') }}/data/data_catalog/duckdb.db"
       external_root: "{{ env_var('DBT_PROJECT_ROOT') }}/data/data_catalog"
