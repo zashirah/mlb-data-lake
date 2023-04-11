@@ -24,6 +24,9 @@ jobs:
           export DBT_PROFILES_DIR=${{ github.workspace }}/dbt_project/environment/duckdb0.7
           export DBT_DUCKDB_PATH=${{ github.workspace }}/dbt_project/data/duckdb.db
           cd ${{ github.workspace }}/dbt_project
+          mkdir -p data/data_catalog/conformed
+          mkdir -p data/data_catalog/prep
+          mkdir -p data/data_catalog/raw
           dbt run --target prod
         
       - name: evidence install & build
