@@ -25,17 +25,14 @@ jobs:
           export DBT_DUCKDB_PATH=${{ github.workspace }}/dbt_project/data/duckdb.db
           cd ${{ github.workspace }}/dbt_project
           mkdir -p data/data_catalog/conformed
-          mkdir -p data/data_catalog/prep
-          mkdir -p data/data_catalog/raw
           dbt run --target prod
         
       - name: evidence install & build
         run: |	
           cd ${{ github.workspace }}/dbt_project/reports && npm i -force
-          cd ${{ github.workspace }}/dbt_project/reports && mkdir -p data
-          cp -r ${{ github.workspace }}/dbt_project/data/* ${{ github.workspace }}/dbt_project/reports/
+          cd ${{ github.workspace }}/dbt_project/reports && mkdir -p data_catalog
+          cp -r ${{ github.workspace }}/dbt_project/data/* ${{ github.workspace }}/dbt_project/reports/data_catalog/
           cp ${{ github.workspace }}/dbt_project/data/duckdb.db ${{ github.workspace }}/dbt_project/reports/
-          cp ${{ github.workspace }}/dbt_project/data/duckdb.db ${{ github.workspace }}/
           cd ${{ github.workspace }}/dbt_project/reports && npm run build
 
       - name: copy output to working directory
