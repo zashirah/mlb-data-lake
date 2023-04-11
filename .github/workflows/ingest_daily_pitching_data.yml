@@ -3,9 +3,9 @@ name: ingest daily pitching data
 on:
   workflow_dispatch:
     inputs:
-      bingo:
-        required: false
-        default: bango
+      days_ago:
+        required: true
+        default: 1
   schedule:
     - cron: '10 9 * * *' 
 
