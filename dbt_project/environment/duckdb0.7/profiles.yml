@@ -8,4 +8,5 @@ mlb_data_lake:
     prod:
       type: duckdb
       threads: 4
+      path: "{{ env_var('DBT_DUCKDB_PATH') }}"
       external_root: /tmp/data_catalog/conformed
