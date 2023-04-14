@@ -6,7 +6,10 @@ from pybaseball import batting_stats_range
 
 
 def main():
-    days = int(os.environ.get('days_ago', 1))
+    days = os.environ.get('days_ago')
+
+    if not days:
+        days = 1
 
     today = date.today()
     delta = timedelta(days)
