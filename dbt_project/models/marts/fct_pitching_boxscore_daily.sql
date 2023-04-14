@@ -1,4 +1,3 @@
-
 with pitching_stats_daily as (
     select *
 

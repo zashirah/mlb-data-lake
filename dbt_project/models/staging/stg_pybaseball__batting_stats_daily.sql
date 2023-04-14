@@ -1,5 +1,6 @@
 with source as (
-    select *
+    select distinct *, 
+            strptime(date, '%b %d, %Y') as date_key
 
         from {{ source("pybaseball", "batting_stats_daily")}}
     )

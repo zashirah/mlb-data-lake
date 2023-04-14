@@ -24,6 +24,7 @@
     x=date_key 
     y=cumulative_so
     series=playername 
+    lineWidth=4
 />
 <!-- 
 
