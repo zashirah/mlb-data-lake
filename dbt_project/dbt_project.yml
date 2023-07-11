@@ -13,7 +13,8 @@ test-paths:
 models:
   mlb_data_lake:
     staging:  
-      +materialized: view
+      +materialized: external
+      +format: parquet
 
     marts:
       +materialized: external
@@ -21,3 +22,4 @@ models:
 
     analytics:
       +materialized: external
+      +format: parquet
