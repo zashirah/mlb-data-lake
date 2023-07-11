@@ -26,7 +26,7 @@ jobs:
           cd ${{ github.workspace }}/dbt_project
           rm -rf data/duckdb.db
           mkdir -p data/data_catalog/conformed
-          dbt run --target prod
+          dbt run -s +top_n_pitchers --target prod
         
       - name: evidence install & build
         run: |	
