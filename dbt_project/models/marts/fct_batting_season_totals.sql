@@ -14,6 +14,7 @@ with batting_boxscore as (
 batting_totals as (
     select 
         cast(mlbid as VARCHAR) as mlbid,
+        cast(tm as VARCHAR) as team,
         {% for fct_col in fct_cols %}
             sum(coalesce("{{ fct_col }}", 0)) as '{{ fct_col }}_total',
             rank() OVER (ORDER BY sum(coalesce("{{ fct_col }}", 0)) DESC) AS '{{ fct_col }}_total_rank',
@@ -21,7 +22,7 @@ batting_totals as (
 
     from batting_boxscore
 
-    group by 1
+    group by 1, 2
 )
 
 select *

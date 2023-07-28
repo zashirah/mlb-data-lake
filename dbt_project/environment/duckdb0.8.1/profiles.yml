@@ -1,0 +1,16 @@
+mlb_data_lake:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "{{ env_var('DBT_DUCKDB_PATH') }}"
+      external_root: "{{ env_var('DBT_SOURCE_DATA_ROOT') }}/data/data_catalog"
+    uat:
+      type: duckdb
+      path: md:main?motherduck_token={{ env_var('DBT_MOTHERDUCK_TOKEN') }}
+      # external_root: "{{ env_var('DBT_SOURCE_DATA_ROOT') }}/data/data_catalog"
+    prod:
+      type: duckdb
+      threads: 4
+      path: "{{ env_var('DBT_PROJECT_ROOT') }}/data/duckdb.db"
+      external_root: "{{ env_var('DBT_PROJECT_ROOT') }}/data/data_catalog"

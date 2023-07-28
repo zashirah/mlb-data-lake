@@ -7,7 +7,19 @@ dbt_project/logs/
 dbt_project/target/
 
 dbt_project/data/data_catalog/*
+dbt_project/data
 
 dbt_project/my_dbt_run.sh
 
 */duckdb.db
+
+*/node_modules/
+
+.evidence/template
+.svelte-kit
+build
+node_modules
+.DS_Store
+dbt_project/data
+.duckdb
+.db
