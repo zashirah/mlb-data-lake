@@ -21,10 +21,10 @@ jobs:
       - name: dbt run & move files
         run: |
           export DBT_PROJECT_ROOT=${{ github.workspace }}/dbt_project
+          export DBT_SOURCE_DATA_ROOT=s3://zs-mlb-datalake
           export DBT_PROFILES_DIR=${{ github.workspace }}/dbt_project/environment/duckdb0.8.1
           export DBT_MOTHERDUCK_TOKEN=${{ secrets.DBT_MOTHERDUCK_TOKEN }}
           export DBT_DUCKDB_PATH=md:main?motherduck_token=${{ secrets.DBT_MOTHERDUCK_TOKEN }}
-          export
           cd ${{ github.workspace }}/dbt_project
           dbt run -s +top_n_pitchers --target prod
         
