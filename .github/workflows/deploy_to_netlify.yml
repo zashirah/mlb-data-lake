@@ -1,7 +1,11 @@
 name: 'Deploy to Netlify'
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
+    inputs:
+      days_ago:
+        required: true
+        default: 1
   schedule:
     - cron: '0 10 * * *' 
 
