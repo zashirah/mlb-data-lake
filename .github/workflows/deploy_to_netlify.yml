@@ -6,6 +6,10 @@ env:
   DATABASE: ${{ secrets.DATABASE }}
   DUCKDB_FILENAME: ${{ secrets.DUCKDB_FILENAME }}
   DUCKDB_GITIGNOREDUCKDB: ${{ secrets.DUCKDB_GITIGNOREDUCKDB }}
+  DBT_PROJECT_ROOT: ${{ github.workspace }}/dbt_project
+  DBT_SOURCE_DATA_ROOT: s3://zs-mlb-datalake
+  DBT_PROFILES_DIR: ${{ github.workspace }}/dbt_project/environment/duckdb0.8.1
+  DBT_MOTHERDUCK_TOKEN: ${{ secrets.DBT_MOTHERDUCK_TOKEN }}
 
 jobs:
   deploy:
@@ -23,7 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r ${{ github.workspace }}/dbt_project/requirements.txt
 
-      - name: dbt run & move files
+      - name: dbt run
         run: |
           export DBT_PROJECT_ROOT=${{ github.workspace }}/dbt_project
           export DBT_SOURCE_DATA_ROOT=s3://zs-mlb-datalake
