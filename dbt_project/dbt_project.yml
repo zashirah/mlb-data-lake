@@ -14,7 +14,7 @@ models:
   mlb_data_lake:
     staging:
       +materialized: table
-      # +format: parquet
+      +format: parquet
 
     marts:
       +materialized: table
