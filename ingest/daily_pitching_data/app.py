@@ -10,6 +10,8 @@ def main():
 
     if not days:
         days = 1
+    else:
+        days = int(days)
 
     today = date.today()
     delta = timedelta(days)
