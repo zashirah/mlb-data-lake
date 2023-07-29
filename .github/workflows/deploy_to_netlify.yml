@@ -42,7 +42,7 @@ jobs:
           export DBT_MOTHERDUCK_TOKEN=${{ secrets.DBT_MOTHERDUCK_TOKEN }}
           export DBT_DUCKDB_PATH=md:main?motherduck_token=${{ secrets.DBT_MOTHERDUCK_TOKEN }}
           cd ${{ github.workspace }}/dbt_project
-          dbt run -s +top_n_pitchers --target prod
+          dbt run -t prod
         
       - name: evidence install & build
         run: |	
