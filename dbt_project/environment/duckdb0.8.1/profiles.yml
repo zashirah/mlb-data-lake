@@ -8,6 +8,7 @@ mlb_data_lake:
     uat:
       type: duckdb
       path: md:main?motherduck_token={{ env_var('DBT_MOTHERDUCK_TOKEN') }}
+      external_root: "{{ env_var('DBT_SOURCE_DATA_ROOT') }}/data/data_catalog"
     prod:
       type: duckdb
       path: md:main?motherduck_token={{ env_var('DBT_MOTHERDUCK_TOKEN') }}

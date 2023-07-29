@@ -13,13 +13,13 @@ test-paths:
 models:
   mlb_data_lake:
     staging:
-      +materialized: table
-      # +format: parquet
+      +materialized: external
+      +format: parquet
 
     marts:
-      +materialized: table
+      +materialized: external
       +format: parquet
 
     analytics:
-      +materialized: table
+      +materialized: external
       +format: parquet

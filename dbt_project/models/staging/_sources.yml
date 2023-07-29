@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: bigdataball
     meta: 
-      external_location: "{{ env_var('DBT_SOURCE_DATA_ROOT') }}/data/raw/bigdataball/{name}.csv"
+      external_location: "{{ env_var('DBT_SOURCE_DATA_ROOT') }}/data/raw/bigdataball/{name}-not-here.csv"
     tables:
       - name: mlb_2022_player_boxscore_dataset
       - name: teams
