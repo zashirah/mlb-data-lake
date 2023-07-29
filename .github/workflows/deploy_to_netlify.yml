@@ -11,7 +11,7 @@ jobs:
       - name: Check out
         uses: actions/checkout@master
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
       - name: install packages
         run: |
@@ -21,19 +21,14 @@ jobs:
       - name: dbt run & move files
         run: |
           export DBT_PROJECT_ROOT=${{ github.workspace }}/dbt_project
-          export DBT_PROFILES_DIR=${{ github.workspace }}/dbt_project/environment/duckdb0.7
-          export DBT_DUCKDB_PATH=${{ github.workspace }}/dbt_project/data/duckdb.db
+          export DBT_PROFILES_DIR=${{ github.workspace }}/dbt_project/environment/duckdb0.8.1
+          export DBT_DUCKDB_PATH=md:main?motherduck_token=${{ secrets.DBT_MOTHERDUCK_TOKEN }}
           cd ${{ github.workspace }}/dbt_project
-          rm -rf data/duckdb.db
-          mkdir -p data/data_catalog/conformed
           dbt run -s +top_n_pitchers --target prod
         
       - name: evidence install & build
         run: |	
           cd ${{ github.workspace }}/dbt_project/reports && npm i -force
-          cd ${{ github.workspace }}/dbt_project/reports && mkdir -p data_catalog
-          cp -r ${{ github.workspace }}/dbt_project/data/* ${{ github.workspace }}/dbt_project/reports/data_catalog/
-          cp ${{ github.workspace }}/dbt_project/data/duckdb.db ${{ github.workspace }}/dbt_project/reports/
           cd ${{ github.workspace }}/dbt_project/reports && npm run build
 
       - name: copy output to working directory

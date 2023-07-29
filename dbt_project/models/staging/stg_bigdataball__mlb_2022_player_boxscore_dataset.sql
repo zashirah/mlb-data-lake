@@ -35,6 +35,7 @@ with source as (
         "pitching.ip",
         split_part("pitching.ip", '.', 1) as 'pitching.ip_whole',
         split_part("pitching.ip", '.', 2) as 'pitching.ip_decimal',
+        {# 
         case 
             when split_part("pitching.ip", '.', 2) = '0' then 0 
             when split_part("pitching.ip", '.', 2) = '1' then 0.333333333333 
@@ -44,7 +45,8 @@ with source as (
             when split_part("pitching.ip", '.', 2) = '0' then 0 
             when split_part("pitching.ip", '.', 2) = '1' then 0.333333333333 
             when split_part("pitching.ip", '.', 2) = '2' then 0.666666666666
-        end as 'pitching.ip_math',
+        end as 'pitching.ip_math', 
+        #}
         "pitching.h", 
         "pitching.r", 
         "pitching.er", 
