@@ -19,8 +19,10 @@ pitching_boxscore as (
         "pitching.ip",
         "pitching.ip_whole",
         "pitching.ip_decimal",
+        {#
         "pitching.ip_decimal_updated",
         "pitching.ip_math",
+        #}
         "pitching.h", 
         "pitching.r", 
         "pitching.er", 
