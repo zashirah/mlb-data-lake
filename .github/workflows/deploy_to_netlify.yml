@@ -1,6 +1,9 @@
 name: 'Deploy to Netlify'
 
-on: [workflow_dispatch]
+on:
+  workflow_dispatch
+  schedule:
+    - cron: '0 10 * * *' 
 
 env:
   DATABASE: ${{ secrets.DATABASE }}
