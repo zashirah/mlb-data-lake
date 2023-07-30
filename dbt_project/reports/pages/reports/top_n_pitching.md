@@ -1,6 +1,6 @@
 # Top 3 (and ties) Pitchers by Category
 
-## Strikeouts 
+## Strikeouts
 
 ```top3so
     select *
@@ -12,6 +12,7 @@
     order by playername, date_key
 
 ```
+
 ```top3sotot
     select *
     from fct_pitching_season_totals topn
@@ -19,17 +20,13 @@
         on topn.mlbid = dp.mlbid
     where so_total_rank <= 3
 ```
-<LineChart 
-    data={top3so} 
-    x=date_key 
+
+<LineChart
+    data={top3so}
+    x=date_key
     y=cumulative_so
-    series=playername 
+    series=playername
     lineWidth=4
 />
-<!-- 
 
-<DataTable data={top3sotot}>
-    <Column id=playername/>
-    <Column id=date_key/>
-    <Column id=cumulative_so/>
-</DataTable> -->
+
