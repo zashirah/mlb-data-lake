@@ -2,9 +2,9 @@
 
 ### Description
 
-This project builds is an end to end analytics system. Data is ingested to s3 then loaded and transformed in duckdb or motherduck and then visualized in evidence.dev. 
+This project builds is an end to end analytics system. Data is ingested to s3 then loaded and transformed in duckdb or motherduck and then visualized in evidence.dev. The site is deployed with netlify using GitHub Actions.
 
-![site](https://mlb-data-lake.netlify.app)
+[mlb-data-lake.netlify](https://mlb-data-lake.netlify.app)
 
 ### High Level Architecture
 ![high level architecture](./images/high-level-architecture-diagram.png)
