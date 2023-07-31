@@ -1,5 +1,11 @@
 # mlb-data-lake
 
+### Description
+
+This project builds is an end to end analytics system. Data is ingested to s3 then loaded and transformed in duckdb or motherduck and then visualized in evidence.dev. 
+
+![site](https://mlb-data-lake.netlify.app)
+
 ### High Level Architecture
 ![high level architecture](./images/high-level-architecture-diagram.png)
 
