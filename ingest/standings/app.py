@@ -1,8 +1,9 @@
-from awswrangler import s3 as aws3
-import boto3
+# from awswrangler import s3 as aws3
+# import boto3
 from datetime import date, timedelta
 import os
 from pybaseball import standings
+import pandas as pd
 
 
 def main():
@@ -19,7 +20,9 @@ def main():
 
     data = standings(2023)
 
-    print(data)
+    df = pd.concat(data)
+
+    print(df)
 
     ACCESS_KEY = os.environ.get('AWS_ACCESS_KEY')
     SECRET_KEY = os.environ.get('AWS_SECRET_ACCESS_KEY')
@@ -30,7 +33,7 @@ def main():
     )
 
     aws3.to_csv(
-        df=data,
+        df=df,
         path=f's3://zs-mlb-datalake/data/raw/pybaseball/standings/standings_{run_date_string}.csv',
         index=False,
         boto3_session=s3_session
