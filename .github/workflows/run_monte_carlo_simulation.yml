@@ -1,13 +1,7 @@
 name: Run 4040 Monte Carlo Simulation
 
 on:
-  workflow_dispatch:
-    inputs:
-      bingo:
-        required: false
-        default: bango
-  schedule:
-    - cron: '0 10 * * *' 
+  workflow_dispatch
 
 jobs:
   build:

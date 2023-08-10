@@ -6,8 +6,6 @@ on:
       days_ago:
         required: true
         default: 1
-  schedule:
-    - cron: '10 9 * * *' 
 
 jobs:
   build:

@@ -7,7 +7,7 @@ on:
         required: true
         default: 1
   schedule:
-    - cron: '0 10 * * *' 
+    - cron: '30 10 * * *' 
 
 env:
   DATABASE: ${{ secrets.DATABASE }}
@@ -19,10 +19,136 @@ env:
   DBT_MOTHERDUCK_TOKEN: ${{ secrets.DBT_MOTHERDUCK_TOKEN }}
 
 jobs:
-  deploy:
-    name: 'Deploy'
+  ingest_daily_batting_data:
+    name: 'Ingest Daily Batting Data'
     runs-on: ubuntu-latest
+    steps:
 
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ${{ github.workspace }}/ingest/daily_batting_data/requirements.txt
+
+      - name: execute py script # run main.py
+        env:
+          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: days_ago=${{ github.event.inputs.days_ago }} python ${{ github.workspace }}/ingest/daily_batting_data/app.py
+  
+  ingest_daily_pitching_data:
+    name: 'Ingest Daily Pitching Data'
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ${{ github.workspace }}/ingest/daily_pitching_data/requirements.txt
+
+      - name: execute py script # run main.py
+        env:
+          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: days_ago=${{ github.event.inputs.days_ago }} python ${{ github.workspace }}/ingest/daily_pitching_data/app.py
+ 
+  ingest_standings_data:
+    name: 'Ingest Standings Data'
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ${{ github.workspace }}/ingest/standings/requirements.txt
+
+      - name: execute py script # run main.py
+        env:
+          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: days_ago=${{ github.event.inputs.days_ago }} python ${{ github.workspace }}/ingest/standings/app.py
+ 
+  ingest_yahoo_active_roster:
+    name: 'Ingest Yahoo Active Roster'
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ${{ github.workspace }}/ingest/yahoo_free_agents/requirements.txt
+
+      - name: execute py script # run main.py
+        env:
+          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: python ${{ github.workspace }}/ingest/yahoo_free_agents/app.py
+
+  ingest_yahoo_rostered:
+    name: 'Ingest Yahoo Rostered'
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ${{ github.workspace }}/ingest/yahoo_rostered/requirements.txt
+
+      - name: execute py script # run main.py
+        env:
+          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: python ${{ github.workspace }}/ingest/yahoo_rostered/app.py
+
+  run_dbt_job:
+    name: 'Run dbt job'
+    needs: [
+      ingest_daily_batting_data, 
+      ingest_daily_pitching_data, 
+      ingest_standings_data, 
+      ingest_yahoo_active_roster, 
+      ingest_yahoo_rostered
+    ]
+    runs-on: ubuntu-latest
     steps:
       - name: Check out
         uses: actions/checkout@master
@@ -44,6 +170,35 @@ jobs:
           cd ${{ github.workspace }}/dbt_project
           dbt run -t prod
         
+  run_4040_monte_carlo_simulation:
+    Name: 'Run 4040 Monte Carlo Simulation'
+    needs: run_dbt_job
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ${{ github.workspace }}/advanced_analytics/monte_carlo_4040/requirements.txt
+
+      - name: execute py script # run main.py
+        env:
+          DBT_MOTHERDUCK_TOKEN: ${{ secrets.DBT_MOTHERDUCK_TOKEN }}
+        run: python ${{ github.workspace }}/advanced_analytics/monte_carlo_4040/app.py
+
+  deploy_evidence:
+    Name: 'Deploy Evidence'
+    needs: run_4040_monte_carlo_simulation
+    runs-on: ubuntu-latest
+    steps:
       - name: evidence install & build
         run: |	
           cd ${{ github.workspace }}/dbt_project/reports && npm i -force

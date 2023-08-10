@@ -1,13 +1,7 @@
 name: ingest yahoo rostered
 
 on:
-  workflow_dispatch:
-    inputs:
-      bingo:
-        required: false
-        default: bango
-  schedule:
-    - cron: '0 9 * * *' 
+  workflow_dispatch 
 
 jobs:
   build:
