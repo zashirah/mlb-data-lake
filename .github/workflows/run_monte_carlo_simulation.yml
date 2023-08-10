@@ -29,6 +29,5 @@ jobs:
 
       - name: execute py script # run main.py
         env:
-          AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          DBT_MOTHERDUCK_TOKEN: ${{ secrets.DBT_MOTHERDUCK_TOKEN }}
         run: python ${{ github.workspace }}/advanced_analytics/monte_carlo_4040/app.py
