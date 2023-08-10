@@ -1,5 +1,5 @@
-# from awswrangler import s3 as aws3
-# import boto3
+from awswrangler import s3 as aws3
+import boto3
 from datetime import date, timedelta
 import os
 from pybaseball import standings
