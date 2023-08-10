@@ -139,8 +139,8 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: python ${{ github.workspace }}/ingest/yahoo_rostered/app.py
 
-  transform_and_deploy:
-    name: 'Transform and Deploy'
+  run_dbt_job:
+    name: 'Run dbt job'
     needs: [
       ingest_daily_batting_data, 
       ingest_daily_pitching_data, 
@@ -199,7 +199,6 @@ jobs:
     needs: run_4040_monte_carlo_simulation
     runs-on: ubuntu-latest
     steps:
-
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content
         
