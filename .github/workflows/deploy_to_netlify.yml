@@ -171,7 +171,7 @@ jobs:
           dbt run -t prod
         
   run_4040_monte_carlo_simulation:
-    Name: 'Run 4040 Monte Carlo Simulation'
+    name: 'Run 4040 Monte Carlo Simulation'
     needs: run_dbt_job
     runs-on: ubuntu-latest
     steps:
@@ -195,7 +195,7 @@ jobs:
         run: python ${{ github.workspace }}/advanced_analytics/monte_carlo_4040/app.py
 
   deploy_evidence:
-    Name: 'Deploy Evidence'
+    name: 'Deploy Evidence'
     needs: run_4040_monte_carlo_simulation
     runs-on: ubuntu-latest
     steps:
