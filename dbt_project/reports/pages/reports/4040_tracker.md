@@ -2,7 +2,7 @@
 
 ```top_player
     select mlbid, "4040prob", "40hrprob", "40sbprob", "g_total"
-    from fct_batting_season_totals_v2 tot
+    from monte_carlo_4040 tot
     where tot.g_total > 100
     and tot."4040prob" >= 0.01
     order by "4040prob" desc

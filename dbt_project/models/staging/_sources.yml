@@ -28,3 +28,6 @@ sources:
       - name: pitching_stats_daily
         meta:
           external_location: "{{ env_var('DBT_SOURCE_DATA_ROOT') }}/data/raw/pybaseball/pitching_stats_range/pitching_stats_range_*.csv"
+      - name: standings
+        meta:
+          external_location: "{{ env_var('DBT_SOURCE_DATA_ROOT') }}/data/raw/pybaseball/standings/standings_*.csv"
