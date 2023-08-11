@@ -1,5 +1,7 @@
 # Top 3 (and ties) Batters by Category
 
+This data was provided by [baseball-reference](https://www.baseball-reference.com/) via [pybaseball](https://github.com/jldbc/pybaseball).
+
 ## HRs 
 
 ```top3hr

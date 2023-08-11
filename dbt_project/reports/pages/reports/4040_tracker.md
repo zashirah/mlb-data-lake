@@ -40,6 +40,8 @@ Show the season long 40HR/40SB trend for Ronald Acuña. Based on a basic Monte C
 
 The Monte Carlo Simulation is based on the HR and SB rates. If the HR rate is 5%, that means 5% of plate appearances end in Home Runs. We then take the average number of PA's / game and extrapolate that for the rest of the games this season. For each expected at bat, we calculate a random number. If that random number is less than the expected HR rate, then we count that as a home run. 
 
+This data was provided by [baseball-reference](https://www.baseball-reference.com/) via [pybaseball](https://github.com/jldbc/pybaseball).
+
 ***
 
 <LineChart 

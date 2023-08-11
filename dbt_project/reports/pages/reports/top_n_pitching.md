@@ -1,5 +1,7 @@
 # Top 3 (and ties) Pitchers by Category
 
+This data was provided by [baseball-reference](https://www.baseball-reference.com/) via [pybaseball](https://github.com/jldbc/pybaseball).
+
 ## Strikeouts
 
 ```top3so
@@ -28,5 +30,3 @@
     series=playername
     lineWidth=4
 />
-
-
