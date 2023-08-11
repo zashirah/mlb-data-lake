@@ -14,3 +14,12 @@ dbt_project/reports/duckdb.db
 */node_modules/
 
 logs/
+
+.vscode/
+
+.ipynb_checkpoints/
+
+duckdb.db
+
+memory
+
