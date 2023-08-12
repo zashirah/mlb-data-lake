@@ -1,7 +1,11 @@
-name: ingest yahoo rostered
+name: ingest standings data
 
 on:
-  workflow_dispatch 
+  workflow_dispatch:
+    inputs:
+      days_ago:
+        required: true
+        default: 1
 
 jobs:
   build:
@@ -19,10 +23,10 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r ${{ github.workspace }}/ingest/yahoo_rostered/requirements.txt
+          pip install -r ${{ github.workspace }}/ingest/standings/requirements.txt
 
       - name: execute py script # run main.py
         env:
           AWS_ACCESS_KEY: ${{ secrets.AWS_ACCESS_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        run: python ${{ github.workspace }}/ingest/yahoo_rostered/app.py
+        run: days_ago=${{ github.event.inputs.days_ago }} python ${{ github.workspace }}/ingest/standings/app.py
