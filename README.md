@@ -21,6 +21,8 @@ The different layers I have are:
 
 [Lucid Chart](https://lucid.app/lucidchart/64b88329-46d6-4283-b875-fea82e9b328a/edit?view_items=DHbh.MwD~tuD&invitationId=inv_aec05db6-afbd-4dc8-831b-353bb2e5a6ce)
 
+***
+
 ### Orchestration
 
 #### Current Implentation
@@ -30,6 +32,8 @@ The different layers I have are:
 #### Possible Implementations
 
 * dagster
+
+*** 
 
 ### Ingestion
 
@@ -45,6 +49,8 @@ The different layers I have are:
 * languages (go, rust)
 * tools (meltano, fivetran, airbyte)
 
+*** 
+
 ### Extract and Load
 
 #### Current Implentation
@@ -57,6 +63,8 @@ The different layers I have are:
 * fivetran
 * airbyte
 
+*** 
+
 ### Storage
 
 #### Current Implentation
@@ -66,6 +74,8 @@ The different layers I have are:
 #### Possible Implementations
 
 * postgres
+
+*** 
 
 ### Transform
 
@@ -77,6 +87,8 @@ The different layers I have are:
 
 * sqlmesh
 
+*** 
+
 ### Advanced Analytics
 
 #### Current Implentation
@@ -86,6 +98,8 @@ The different layers I have are:
 #### Possible Implementations
 
 * need to do more research generally here
+
+*** 
 
 ### Visualization
 
