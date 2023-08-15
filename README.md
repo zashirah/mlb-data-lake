@@ -1,39 +1,103 @@
 # mlb-data-lake
 
-### Description
+You can see the final product here: [mlb-data-lake.netlify.app](https://mlb-data-lake.netlify.app)
 
-This project builds is an end to end analytics system. Data is ingested to s3 then loaded and transformed in duckdb or motherduck and then visualized in evidence.dev. The site is deployed with netlify using GitHub Actions.
+## Description
 
-[mlb-data-lake.netlify.app](https://mlb-data-lake.netlify.app)
+The purpose of this project is to give myself an end to end analytics app so I can explore and learn about different tools in the ecosystem. 
 
-### High Level Architecture
+The different layers I have are:
+
+* orchestration (ex. dagster)
+* ingestion (ex. read data from API and write to s3)
+* extract and load (ex. meltano to read data from s3 into duckdb)
+* storage (ex. postgres)
+* transform (ex. dbt to currate data mart)
+* advanced analytics (ex. churn prediction)
+* visualization (ex. Tableau dashboard)
+
+## High Level Architecture
 ![high level architecture](./images/high-level-architecture-diagram.png)
 
 [Lucid Chart](https://lucid.app/lucidchart/64b88329-46d6-4283-b875-fea82e9b328a/edit?view_items=DHbh.MwD~tuD&invitationId=inv_aec05db6-afbd-4dc8-831b-353bb2e5a6ce)
 
-### High Level Process
+### Orchestration
 
-* GitHub Actions run .py scripts at 9:10 AM to write data to s3
-* DEV
-    * run aws s3 cp command to read data locally
-    * run dbt with duckdb backend
-    * move duckdb file to evidence directory
-    * build evidence locally
-    * update evidence connection settings
-* UAT
-    * run dbt with s3 external source tables and motherduck backend
-    * build evidence locally
-    * update evidence connection settings
-* PROD (via GHA)
-    * run dbt with s3 external source tables and motherduck backend
-    * build and deploy evidence connected to motherduck
+#### Current Implentation
 
-### Setup
+* ![GitHub Actions orchestration](./images/github-action-orchestration.png)
 
-* DEV
-* UAT
-* PROD
+#### Possible Implementations
 
-### To do
+* dagster
 
-The to do list is created based on GitHub issues
+### Ingestion
+
+#### Current Implentation
+
+* using different python libraries to read in dataframes and write them to s3 using awswrangler
+    * libraries - awswrangler, boto3, pybaseball, yahoo_fantasy_api, yahoo_oauth
+
+#### Possible Implementations
+
+* could write straight to duckdb/motherduck instead of s3
+* sources (python libraries, webscrapiing, apis)
+* languages (go, rust)
+* tools (meltano, fivetran, airbyte)
+
+### Extract and Load
+
+#### Current Implentation
+
+* None. Using external tables
+
+#### Possible Implementations
+
+* meltano
+* fivetran
+* airbyte
+
+### Storage
+
+#### Current Implentation
+
+* using duckdb locally and motherduck in a uat and production enviroment
+
+#### Possible Implementations
+
+* postgres
+
+### Transform
+
+#### Current Implentation
+
+* dbt-duckdb
+
+#### Possible Implementations
+
+* sqlmesh
+
+### Advanced Analytics
+
+#### Current Implentation
+
+* python script creating a Monte Carlo Simulation 
+
+#### Possible Implementations
+
+* need to do more research generally here
+
+### Visualization
+
+#### Current Implentation
+
+* evidence.dev
+
+#### Possible Implementations
+
+* rill - https://www.rilldata.com/
+* Streamlit - https://streamlit.io/
+
+
+
+
