@@ -7,6 +7,7 @@ dbt_project/logs/
 dbt_project/target/
 
 dbt_project/data/*
+dbt_project/dbt_packages/*
 
 */*/*/duckdb.db
 dbt_project/reports/duckdb.db
