@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@evidence-dev/core-components": "^1.2.1",
-    "@evidence-dev/evidence": "^20.0.1"
-  }
-}

@@ -1,6 +1,1 @@
 version: 2
-
-models:
-  - name: stg_bigdataball__mlb_2022_player_boxscore_dataset
-  - name: stg_pybaseball__pitching_stats_daily
-

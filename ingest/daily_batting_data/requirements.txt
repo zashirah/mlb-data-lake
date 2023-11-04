@@ -1,4 +1,0 @@
-pybaseball
-fsspec
-s3fs
-awswrangler

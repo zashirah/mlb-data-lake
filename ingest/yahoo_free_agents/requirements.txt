@@ -1,5 +1,0 @@
-fsspec
-s3fs
-awswrangler
-yahoo_fantasy_api
-yahoo_oauth

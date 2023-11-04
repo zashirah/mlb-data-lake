@@ -1,4 +1,0 @@
-ipykernel
-jupyterlab
-notebook
-pybaseball
