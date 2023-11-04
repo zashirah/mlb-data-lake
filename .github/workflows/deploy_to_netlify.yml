@@ -6,8 +6,6 @@ on:
       days_ago:
         required: true
         default: 1
-  schedule:
-    - cron: '30 14 * * *' 
 
 env:
   DATABASE: ${{ secrets.DATABASE }}
@@ -168,6 +166,7 @@ jobs:
           export DBT_MOTHERDUCK_TOKEN=${{ secrets.DBT_MOTHERDUCK_TOKEN }}
           export DBT_DUCKDB_PATH=md:main?motherduck_token=${{ secrets.DBT_MOTHERDUCK_TOKEN }}
           cd ${{ github.workspace }}/dbt_project
+          dbt deps -t prod
           dbt run -t prod
         
   run_4040_monte_carlo_simulation:
